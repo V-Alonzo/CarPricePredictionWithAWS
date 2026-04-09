@@ -1,0 +1,6032 @@
+{
+    "Manufacturer": {
+        "0": {
+            "label": "LEXUS",
+            "scaled": "19061.3547586"
+        },
+        "1": {
+            "label": "CHEVROLET",
+            "scaled": "14346.5903499"
+        },
+        "2": {
+            "label": "HONDA",
+            "scaled": "14363.4225332"
+        },
+        "3": {
+            "label": "FORD",
+            "scaled": "14520.1902153"
+        },
+        "4": {
+            "label": "HYUNDAI",
+            "scaled": "22673.3896389"
+        },
+        "5": {
+            "label": "TOYOTA",
+            "scaled": "14174.5712535"
+        },
+        "6": {
+            "label": "MERCEDES-BENZ",
+            "scaled": "18921.6178189"
+        },
+        "7": {
+            "label": "OPEL",
+            "scaled": "7203.1439777"
+        },
+        "8": {
+            "label": "PORSCHE",
+            "scaled": "43014.1312022"
+        },
+        "9": {
+            "label": "BMW",
+            "scaled": "20582.2288580"
+        },
+        "10": {
+            "label": "JEEP",
+            "scaled": "25463.5576222"
+        },
+        "11": {
+            "label": "VOLKSWAGEN",
+            "scaled": "11992.5885384"
+        },
+        "12": {
+            "label": "AUDI",
+            "scaled": "15905.7920257"
+        },
+        "13": {
+            "label": "RENAULT",
+            "scaled": "13318.8052732"
+        },
+        "14": {
+            "label": "NISSAN",
+            "scaled": "10368.1699353"
+        },
+        "15": {
+            "label": "SUBARU",
+            "scaled": "11136.2863465"
+        },
+        "16": {
+            "label": "DAEWOO",
+            "scaled": "8701.0246302"
+        },
+        "17": {
+            "label": "KIA",
+            "scaled": "15948.5146157"
+        },
+        "18": {
+            "label": "MITSUBISHI",
+            "scaled": "12485.3850573"
+        },
+        "19": {
+            "label": "SSANGYONG",
+            "scaled": "30447.6407795"
+        },
+        "20": {
+            "label": "MAZDA",
+            "scaled": "10350.5681118"
+        },
+        "21": {
+            "label": "GMC",
+            "scaled": "14249.4099605"
+        },
+        "22": {
+            "label": "FIAT",
+            "scaled": "11308.5564566"
+        },
+        "23": {
+            "label": "INFINITI",
+            "scaled": "16579.5418709"
+        },
+        "24": {
+            "label": "ALFA ROMEO",
+            "scaled": "16027.2162990"
+        },
+        "25": {
+            "label": "SUZUKI",
+            "scaled": "12267.6068962"
+        },
+        "26": {
+            "label": "ACURA",
+            "scaled": "12318.7689644"
+        },
+        "27": {
+            "label": "LINCOLN",
+            "scaled": "16226.8689644"
+        },
+        "28": {
+            "label": "VAZ",
+            "scaled": "7667.5362971"
+        },
+        "29": {
+            "label": "GAZ",
+            "scaled": "15454.6105464"
+        },
+        "30": {
+            "label": "CITROEN",
+            "scaled": "15821.7413778"
+        },
+        "31": {
+            "label": "LAND ROVER",
+            "scaled": "40592.8872997"
+        },
+        "32": {
+            "label": "MINI",
+            "scaled": "16807.0720997"
+        },
+        "33": {
+            "label": "DODGE",
+            "scaled": "9915.8487595"
+        },
+        "34": {
+            "label": "CHRYSLER",
+            "scaled": "12741.9324704"
+        },
+        "35": {
+            "label": "ISUZU",
+            "scaled": "15689.2599453"
+        },
+        "36": {
+            "label": "JAGUAR",
+            "scaled": "24926.0820444"
+        },
+        "37": {
+            "label": "SKODA",
+            "scaled": "17905.2304889"
+        },
+        "38": {
+            "label": "DAIHATSU",
+            "scaled": "11433.6877383"
+        },
+        "39": {
+            "label": "BUICK",
+            "scaled": "13051.0811346"
+        },
+        "40": {
+            "label": "CADILLAC",
+            "scaled": "14009.2689644"
+        },
+        "41": {
+            "label": "PEUGEOT",
+            "scaled": "13851.7413778"
+        },
+        "42": {
+            "label": "VOLVO",
+            "scaled": "15059.6877383"
+        },
+        "43": {
+            "label": "Other",
+            "scaled": "17258.0316074"
+        },
+        "44": {
+            "label": "HAVAL",
+            "scaled": "17059.3072081"
+        },
+        "45": {
+            "label": "SCION",
+            "scaled": "17787.7984068"
+        },
+        "46": {
+            "label": "UAZ",
+            "scaled": "12554.3164288"
+        },
+        "47": {
+            "label": "MERCURY",
+            "scaled": "16108.1149407"
+        },
+        "48": {
+            "label": "ZAZ",
+            "scaled": "15872.6708444"
+        },
+        "49": {
+            "label": "ROVER",
+            "scaled": "15963.5799353"
+        },
+        "50": {
+            "label": "SEAT",
+            "scaled": "16232.5799353"
+        },
+        "51": {
+            "label": "LANCIA",
+            "scaled": "16802.7617535"
+        },
+        "52": {
+            "label": "MOSKVICH",
+            "scaled": "13488.7984068"
+        },
+        "53": {
+            "label": "MASERATI",
+            "scaled": "15872.9482741"
+        },
+        "54": {
+            "label": "HUMMER",
+            "scaled": "21544.0316074"
+        },
+        "55": {
+            "label": "SAAB",
+            "scaled": "16403.5799353"
+        },
+        "56": {
+            "label": "FERRARI",
+            "scaled": "25542.5316074"
+        },
+        "57": {
+            "label": "ROLLS-ROYCE",
+            "scaled": "17259.9379289"
+        },
+        "58": {
+            "label": "PONTIAC",
+            "scaled": "17259.9379289"
+        },
+        "59": {
+            "label": "SATURN",
+            "scaled": "17259.9379289"
+        },
+        "60": {
+            "label": "GREATWALL",
+            "scaled": "17259.9379289"
+        }
+    },
+    "Model": {
+        "0": {
+            "label": "RX 450",
+            "scaled": "13079.9295669"
+        },
+        "1": {
+            "label": "EQUINOX",
+            "scaled": "12468.9717859"
+        },
+        "2": {
+            "label": "FIT",
+            "scaled": "11041.2409371"
+        },
+        "3": {
+            "label": "ESCAPE",
+            "scaled": "8872.0698609"
+        },
+        "4": {
+            "label": "SANTA FE",
+            "scaled": "39012.2390884"
+        },
+        "5": {
+            "label": "PRIUS",
+            "scaled": "11705.0207273"
+        },
+        "6": {
+            "label": "SONATA",
+            "scaled": "15372.4547337"
+        },
+        "7": {
+            "label": "CAMRY",
+            "scaled": "12691.8536849"
+        },
+        "8": {
+            "label": "RX 350",
+            "scaled": "15461.0084286"
+        },
+        "9": {
+            "label": "E 350",
+            "scaled": "8931.6006976"
+        },
+        "10": {
+            "label": "TRANSIT",
+            "scaled": "14042.0548907"
+        },
+        "11": {
+            "label": "VECTRA",
+            "scaled": "7801.9177111"
+        },
+        "12": {
+            "label": "CHR",
+            "scaled": "13690.4432598"
+        },
+        "13": {
+            "label": "ELANTRA",
+            "scaled": "16293.8846866"
+        },
+        "14": {
+            "label": "RX 400",
+            "scaled": "12999.9741370"
+        },
+        "15": {
+            "label": "E 220",
+            "scaled": "15828.3074704"
+        },
+        "16": {
+            "label": "GX 470",
+            "scaled": "22009.7514208"
+        },
+        "17": {
+            "label": "HIGHLANDER",
+            "scaled": "11611.2471701"
+        },
+        "18": {
+            "label": "VITO",
+            "scaled": "19841.4363120"
+        },
+        "19": {
+            "label": "CAYENNE",
+            "scaled": "25580.9029366"
+        },
+        "20": {
+            "label": "X5",
+            "scaled": "18472.5224236"
+        },
+        "21": {
+            "label": "GRAND CHEROKEE",
+            "scaled": "17446.3844181"
+        },
+        "22": {
+            "label": "H1",
+            "scaled": "29952.1926331"
+        },
+        "23": {
+            "label": "JETTA",
+            "scaled": "11467.8882624"
+        },
+        "24": {
+            "label": "TACOMA",
+            "scaled": "14784.8614416"
+        },
+        "25": {
+            "label": "PRIUS C",
+            "scaled": "14746.9456387"
+        },
+        "26": {
+            "label": "AQUA",
+            "scaled": "17577.0715566"
+        },
+        "27": {
+            "label": "ESCAPE HYBRID",
+            "scaled": "16996.7816074"
+        },
+        "28": {
+            "label": "CIVIC",
+            "scaled": "29879.6930028"
+        },
+        "29": {
+            "label": "Q7",
+            "scaled": "15375.7990995"
+        },
+        "30": {
+            "label": "MEGANE 1.5CDI",
+            "scaled": "17016.5799353"
+        },
+        "31": {
+            "label": "E 300",
+            "scaled": "10734.1677111"
+        },
+        "32": {
+            "label": "Q5",
+            "scaled": "20989.3643169"
+        },
+        "33": {
+            "label": "C 180",
+            "scaled": "10979.0824217"
+        },
+        "34": {
+            "label": "JUKE",
+            "scaled": "11620.3517239"
+        },
+        "35": {
+            "label": "535",
+            "scaled": "17689.1630088"
+        },
+        "36": {
+            "label": "CRUZE LT",
+            "scaled": "17115.5766272"
+        },
+        "37": {
+            "label": "FUSION",
+            "scaled": "10206.0691580"
+        },
+        "38": {
+            "label": "VOXY",
+            "scaled": "14232.5985206"
+        },
+        "39": {
+            "label": "A 160",
+            "scaled": "13620.0270921"
+        },
+        "40": {
+            "label": "TUCSON",
+            "scaled": "28926.1195602"
+        },
+        "41": {
+            "label": "VITZ",
+            "scaled": "10614.2531534"
+        },
+        "42": {
+            "label": "CAPTIVA",
+            "scaled": "17341.2906401"
+        },
+        "43": {
+            "label": "MUSTANG",
+            "scaled": "29204.1824704"
+        },
+        "44": {
+            "label": "ML 350",
+            "scaled": "14133.7614070"
+        },
+        "45": {
+            "label": "YARIS",
+            "scaled": "12938.4655160"
+        },
+        "46": {
+            "label": "CR-V",
+            "scaled": "14525.6109300"
+        },
+        "47": {
+            "label": "CRUZE",
+            "scaled": "12366.9154872"
+        },
+        "48": {
+            "label": "ORLANDO",
+            "scaled": "21093.5927464"
+        },
+        "49": {
+            "label": "520 VANOS",
+            "scaled": "15947.3981172"
+        },
+        "50": {
+            "label": "FORESTER",
+            "scaled": "11386.6079355"
+        },
+        "51": {
+            "label": "LACETTI",
+            "scaled": "9605.2023591"
+        },
+        "52": {
+            "label": "428 SPORT LINE",
+            "scaled": "18684.3981172"
+        },
+        "53": {
+            "label": "PATROL",
+            "scaled": "18463.4907145"
+        },
+        "54": {
+            "label": "E 320",
+            "scaled": "12704.1582144"
+        },
+        "55": {
+            "label": "GENESIS",
+            "scaled": "20452.1010861"
+        },
+        "56": {
+            "label": "911",
+            "scaled": "43303.1699492"
+        },
+        "57": {
+            "label": "GX 460",
+            "scaled": "26972.5364941"
+        },
+        "58": {
+            "label": "SPRINTER",
+            "scaled": "21351.9177111"
+        },
+        "59": {
+            "label": "FOCUS SE",
+            "scaled": "16450.2413778"
+        },
+        "60": {
+            "label": "PICANTO",
+            "scaled": "14172.9189644"
+        },
+        "61": {
+            "label": "328",
+            "scaled": "20350.4404384"
+        },
+        "62": {
+            "label": "AIRTREK",
+            "scaled": "13482.9099605"
+        },
+        "63": {
+            "label": "E 500 AMG",
+            "scaled": "16774.2162990"
+        },
+        "64": {
+            "label": "LANCER",
+            "scaled": "15533.1149407"
+        },
+        "65": {
+            "label": "KORANDO",
+            "scaled": "21155.8084286"
+        },
+        "66": {
+            "label": "CLIO",
+            "scaled": "16075.3368684"
+        },
+        "67": {
+            "label": "616",
+            "scaled": "13602.5676376"
+        },
+        "68": {
+            "label": "C 220",
+            "scaled": "17536.4689644"
+        },
+        "69": {
+            "label": "SERENA",
+            "scaled": "13487.0689644"
+        },
+        "70": {
+            "label": "MAXIMA",
+            "scaled": "13952.3368684"
+        },
+        "71": {
+            "label": "RAV 4",
+            "scaled": "23249.4308669"
+        },
+        "72": {
+            "label": "PAJERO",
+            "scaled": "11976.4315900"
+        },
+        "73": {
+            "label": "VOLT",
+            "scaled": "11079.4854453"
+        },
+        "74": {
+            "label": "TERRAIN",
+            "scaled": "13775.0252859"
+        },
+        "75": {
+            "label": "208",
+            "scaled": "16081.7617535"
+        },
+        "76": {
+            "label": "HR-V EX",
+            "scaled": "17615.3072081"
+        },
+        "77": {
+            "label": "500",
+            "scaled": "10620.6793096"
+        },
+        "78": {
+            "label": "LEGACY",
+            "scaled": "11681.5303203"
+        },
+        "79": {
+            "label": "ELANTRA SPORT LIMITED",
+            "scaled": "17362.6149407"
+        },
+        "80": {
+            "label": "SIENNA",
+            "scaled": "17674.2252859"
+        },
+        "81": {
+            "label": "A 170",
+            "scaled": "15185.7984068"
+        },
+        "82": {
+            "label": "REXTON",
+            "scaled": "31032.1977478"
+        },
+        "83": {
+            "label": "CARNIVAL GRAND",
+            "scaled": "16888.3072081"
+        },
+        "84": {
+            "label": "QX60",
+            "scaled": "16189.7617535"
+        },
+        "85": {
+            "label": "PASSAT",
+            "scaled": "15377.5904506"
+        },
+        "86": {
+            "label": "E 240 E 240",
+            "scaled": "16403.5799353"
+        },
+        "87": {
+            "label": "1000",
+            "scaled": "10883.9689644"
+        },
+        "88": {
+            "label": "50",
+            "scaled": "15809.0344808"
+        },
+        "89": {
+            "label": "C 250",
+            "scaled": "19787.7547885"
+        },
+        "90": {
+            "label": "VITZ FUNKARGO",
+            "scaled": "16546.1253899"
+        },
+        "91": {
+            "label": "325",
+            "scaled": "12113.6990586"
+        },
+        "92": {
+            "label": "A6",
+            "scaled": "10261.8908037"
+        },
+        "93": {
+            "label": "PATHFINDER",
+            "scaled": "16635.2189644"
+        },
+        "94": {
+            "label": "DELICA",
+            "scaled": "15536.3987056"
+        },
+        "95": {
+            "label": "GOLF",
+            "scaled": "9672.0097254"
+        },
+        "96": {
+            "label": "VANEO",
+            "scaled": "14537.4137914"
+        },
+        "97": {
+            "label": "PATROL Y60",
+            "scaled": "17486.9435717"
+        },
+        "98": {
+            "label": "A7",
+            "scaled": "13109.6684342"
+        },
+        "99": {
+            "label": "EXPLORER",
+            "scaled": "43994.5135460"
+        },
+        "100": {
+            "label": "I30",
+            "scaled": "14428.2889410"
+        },
+        "101": {
+            "label": "ALTIMA",
+            "scaled": "10947.8186867"
+        },
+        "102": {
+            "label": "147",
+            "scaled": "16027.2162990"
+        },
+        "103": {
+            "label": "GRAND VITARA",
+            "scaled": "13982.7432938"
+        },
+        "104": {
+            "label": "CT 200H",
+            "scaled": "10317.3296012"
+        },
+        "105": {
+            "label": "VELOSTER",
+            "scaled": "15709.1921175"
+        },
+        "106": {
+            "label": "RAV 4 XLE SPORT",
+            "scaled": "19026.4890263"
+        },
+        "107": {
+            "label": "SIENTA",
+            "scaled": "15894.6149407"
+        },
+        "108": {
+            "label": "CLS 550",
+            "scaled": "30293.1399582"
+        },
+        "109": {
+            "label": "AVALANCHE",
+            "scaled": "15337.1982741"
+        },
+        "110": {
+            "label": "AVALON LIMITED",
+            "scaled": "22162.4556635"
+        },
+        "111": {
+            "label": "CERATO K3",
+            "scaled": "18085.6708444"
+        },
+        "112": {
+            "label": "CX-7",
+            "scaled": "10958.9612056"
+        },
+        "113": {
+            "label": "ASTRA G",
+            "scaled": "12803.5210716"
+        },
+        "114": {
+            "label": "IST",
+            "scaled": "12132.0881218"
+        },
+        "115": {
+            "label": "COROLLA",
+            "scaled": "10929.4482753"
+        },
+        "116": {
+            "label": "ROGUE",
+            "scaled": "15970.8649407"
+        },
+        "117": {
+            "label": "MPV",
+            "scaled": "11545.2189644"
+        },
+        "118": {
+            "label": "GLA 250",
+            "scaled": "16615.0417966"
+        },
+        "119": {
+            "label": "530",
+            "scaled": "19904.0510848"
+        },
+        "120": {
+            "label": "SHARAN",
+            "scaled": "15483.2816074"
+        },
+        "121": {
+            "label": "TIIDA",
+            "scaled": "9708.6875858"
+        },
+        "122": {
+            "label": "C 300",
+            "scaled": "18658.6318727"
+        },
+        "123": {
+            "label": "ACTYON",
+            "scaled": "31609.4186725"
+        },
+        "124": {
+            "label": "TUNDRA",
+            "scaled": "8595.3751300"
+        },
+        "125": {
+            "label": "ELGRAND",
+            "scaled": "14437.4340758"
+        },
+        "126": {
+            "label": "C 350",
+            "scaled": "14447.3649407"
+        },
+        "127": {
+            "label": "CLS 500",
+            "scaled": "18053.4907145"
+        },
+        "128": {
+            "label": "S 350",
+            "scaled": "20851.7984068"
+        },
+        "129": {
+            "label": "RAV 4 LE",
+            "scaled": "18826.9435717"
+        },
+        "130": {
+            "label": "ZAFIRA",
+            "scaled": "13074.6990586"
+        },
+        "131": {
+            "label": "VECTRA B",
+            "scaled": "12254.7281935"
+        },
+        "132": {
+            "label": "C 200",
+            "scaled": "12367.3808768"
+        },
+        "133": {
+            "label": "ASTRA",
+            "scaled": "7981.6868152"
+        },
+        "134": {
+            "label": "323",
+            "scaled": "15904.6708444"
+        },
+        "135": {
+            "label": "CLK 320",
+            "scaled": "13665.7432938"
+        },
+        "136": {
+            "label": "AVALON",
+            "scaled": "16992.3752523"
+        },
+        "137": {
+            "label": "ML 250",
+            "scaled": "25202.8649407"
+        },
+        "138": {
+            "label": "330",
+            "scaled": "14173.2831205"
+        },
+        "139": {
+            "label": "COLT LANCER",
+            "scaled": "15797.7617535"
+        },
+        "140": {
+            "label": "318",
+            "scaled": "11619.3643169"
+        },
+        "141": {
+            "label": "OUTLANDER",
+            "scaled": "16041.5313475"
+        },
+        "142": {
+            "label": "CAMRY SE",
+            "scaled": "24930.3103440"
+        },
+        "143": {
+            "label": "E 200",
+            "scaled": "12420.6682513"
+        },
+        "144": {
+            "label": "GLE 350",
+            "scaled": "28174.2468234"
+        },
+        "145": {
+            "label": "MALIBU",
+            "scaled": "18221.7016181"
+        },
+        "146": {
+            "label": "TL",
+            "scaled": "14507.4482741"
+        },
+        "147": {
+            "label": "INSIGHT",
+            "scaled": "7974.3638700"
+        },
+        "148": {
+            "label": "STREAM",
+            "scaled": "12784.0766272"
+        },
+        "149": {
+            "label": "I",
+            "scaled": "16204.0344808"
+        },
+        "150": {
+            "label": "GTI",
+            "scaled": "15725.4907145"
+        },
+        "151": {
+            "label": "COLT",
+            "scaled": "10413.1251588"
+        },
+        "152": {
+            "label": "PAJERO MINI",
+            "scaled": "15533.1982741"
+        },
+        "153": {
+            "label": "C-MAX",
+            "scaled": "16854.3052732"
+        },
+        "154": {
+            "label": "750",
+            "scaled": "18103.3987056"
+        },
+        "155": {
+            "label": "RAV 4 S P O R T",
+            "scaled": "19397.1253899"
+        },
+        "156": {
+            "label": "E 250",
+            "scaled": "19500.8753299"
+        },
+        "157": {
+            "label": "OUTBACK",
+            "scaled": "12825.2737056"
+        },
+        "158": {
+            "label": "NAVIGATOR",
+            "scaled": "17122.3842349"
+        },
+        "159": {
+            "label": "FUSION TITANIUM",
+            "scaled": "18732.7413778"
+        },
+        "160": {
+            "label": "JIMNY",
+            "scaled": "16831.2162990"
+        },
+        "161": {
+            "label": "AVEO",
+            "scaled": "13800.3793096"
+        },
+        "162": {
+            "label": "X6",
+            "scaled": "22631.2236148"
+        },
+        "163": {
+            "label": "AQUA S",
+            "scaled": "16160.4482741"
+        },
+        "164": {
+            "label": "1111",
+            "scaled": "16054.4890263"
+        },
+        "165": {
+            "label": "32214",
+            "scaled": "17116.3981172"
+        },
+        "166": {
+            "label": "LAGUNA",
+            "scaled": "12894.6919526"
+        },
+        "167": {
+            "label": "OPTIMA",
+            "scaled": "16073.9583720"
+        },
+        "168": {
+            "label": "SHUTTLE",
+            "scaled": "16809.3649407"
+        },
+        "169": {
+            "label": "C 240",
+            "scaled": "13814.7870170"
+        },
+        "170": {
+            "label": "LAND CRUISER PRADO",
+            "scaled": "31197.0793096"
+        },
+        "171": {
+            "label": "328 XDRIVE",
+            "scaled": "16916.7617535"
+        },
+        "172": {
+            "label": "E 240",
+            "scaled": "13395.3752523"
+        },
+        "173": {
+            "label": "TAURUS",
+            "scaled": "22780.3990138"
+        },
+        "174": {
+            "label": "TWINGO",
+            "scaled": "14908.2816074"
+        },
+        "175": {
+            "label": "535 M PAKET",
+            "scaled": "19397.1253899"
+        },
+        "176": {
+            "label": "S 500 LONG",
+            "scaled": "16688.6708444"
+        },
+        "177": {
+            "label": "520",
+            "scaled": "12982.7112056"
+        },
+        "178": {
+            "label": "525",
+            "scaled": "13071.0164908"
+        },
+        "179": {
+            "label": "A4 PREMIUM",
+            "scaled": "17429.9435717"
+        },
+        "180": {
+            "label": "GALAXY",
+            "scaled": "15863.5799353"
+        },
+        "181": {
+            "label": "KIZASHI",
+            "scaled": "16405.4556635"
+        },
+        "182": {
+            "label": "GOLF 4",
+            "scaled": "12180.0223111"
+        },
+        "183": {
+            "label": "ELEMENT",
+            "scaled": "15874.9482741"
+        },
+        "184": {
+            "label": "C1",
+            "scaled": "17030.8526626"
+        },
+        "185": {
+            "label": "X-TRAIL",
+            "scaled": "14262.2453573"
+        },
+        "186": {
+            "label": "RIO",
+            "scaled": "13423.4942518"
+        },
+        "187": {
+            "label": "DISCOVERY",
+            "scaled": "23911.3987056"
+        },
+        "188": {
+            "label": "VENTO",
+            "scaled": "11380.2988494"
+        },
+        "189": {
+            "label": "C 200 2.0",
+            "scaled": "16346.5799353"
+        },
+        "190": {
+            "label": "COROLLA IM",
+            "scaled": "18246.4137914"
+        },
+        "191": {
+            "label": "CLK 240",
+            "scaled": "16688.6708444"
+        },
+        "192": {
+            "label": "FIESTA",
+            "scaled": "12886.4156565"
+        },
+        "193": {
+            "label": "COOPER",
+            "scaled": "13878.5689644"
+        },
+        "194": {
+            "label": "COMBO",
+            "scaled": "11153.3706889"
+        },
+        "195": {
+            "label": "CHALLENGER",
+            "scaled": "14269.3164288"
+        },
+        "196": {
+            "label": "RX 300",
+            "scaled": "14654.0811346"
+        },
+        "197": {
+            "label": "A4",
+            "scaled": "10276.4456228"
+        },
+        "198": {
+            "label": "320",
+            "scaled": "13788.3243528"
+        },
+        "199": {
+            "label": "RX 400 HYBRID",
+            "scaled": "18852.1982741"
+        },
+        "200": {
+            "label": "COROLLA VERSO",
+            "scaled": "15918.9435717"
+        },
+        "201": {
+            "label": "PAJERO IO",
+            "scaled": "10081.9477190"
+        },
+        "202": {
+            "label": "528 I",
+            "scaled": "19218.1149407"
+        },
+        "203": {
+            "label": "ODYSSEY",
+            "scaled": "14281.7689644"
+        },
+        "204": {
+            "label": "L 200",
+            "scaled": "21811.9046640"
+        },
+        "205": {
+            "label": "INSIGHT EX",
+            "scaled": "16356.4482741"
+        },
+        "206": {
+            "label": "FIESTA 1.6",
+            "scaled": "16945.3072081"
+        },
+        "207": {
+            "label": "FOCUS",
+            "scaled": "13195.2162352"
+        },
+        "208": {
+            "label": "TEANA",
+            "scaled": "13459.0210716"
+        },
+        "209": {
+            "label": "MATIZ",
+            "scaled": "12737.7112056"
+        },
+        "210": {
+            "label": "MAZDA 3",
+            "scaled": "14531.2413778"
+        },
+        "211": {
+            "label": "CORSA",
+            "scaled": "10804.4951716"
+        },
+        "212": {
+            "label": "SCENIC",
+            "scaled": "16003.6149407"
+        },
+        "213": {
+            "label": "NX 200",
+            "scaled": "17700.9099605"
+        },
+        "214": {
+            "label": "SPARK",
+            "scaled": "12667.2278317"
+        },
+        "215": {
+            "label": "MARCH",
+            "scaled": "10426.0767513"
+        },
+        "216": {
+            "label": "HS 250H HYBRID",
+            "scaled": "17971.6708444"
+        },
+        "217": {
+            "label": "JOURNEY",
+            "scaled": "14618.5316074"
+        },
+        "218": {
+            "label": "SONATA SPORT",
+            "scaled": "18251.1149407"
+        },
+        "219": {
+            "label": "ELANTRA SE",
+            "scaled": "16814.6487056"
+        },
+        "220": {
+            "label": "ROGUE SPORT",
+            "scaled": "18826.9435717"
+        },
+        "221": {
+            "label": "AURIS",
+            "scaled": "18120.4482741"
+        },
+        "222": {
+            "label": "E 270",
+            "scaled": "15981.7112056"
+        },
+        "223": {
+            "label": "FJ CRUISER",
+            "scaled": "19824.7617535"
+        },
+        "224": {
+            "label": "ES 350",
+            "scaled": "10264.6189644"
+        },
+        "225": {
+            "label": "IMPALA",
+            "scaled": "21264.6299726"
+        },
+        "226": {
+            "label": "SOUL",
+            "scaled": "15526.4137914"
+        },
+        "227": {
+            "label": "500C LOUNGE",
+            "scaled": "16888.3072081"
+        },
+        "228": {
+            "label": "X-TERRA",
+            "scaled": "16144.5172404"
+        },
+        "229": {
+            "label": "MONTERO",
+            "scaled": "16003.6149407"
+        },
+        "230": {
+            "label": "CRUZE LTZ",
+            "scaled": "16944.4482741"
+        },
+        "231": {
+            "label": "X5 X5",
+            "scaled": "17059.3072081"
+        },
+        "232": {
+            "label": "IPSUM",
+            "scaled": "14083.8544049"
+        },
+        "233": {
+            "label": "COUNTRYMAN",
+            "scaled": "19495.8458405"
+        },
+        "234": {
+            "label": "COROLLA 04",
+            "scaled": "17116.3981172"
+        },
+        "235": {
+            "label": "A 190",
+            "scaled": "13707.9556635"
+        },
+        "236": {
+            "label": "SLK 230",
+            "scaled": "16055.8649407"
+        },
+        "237": {
+            "label": "ROGUE SL",
+            "scaled": "17087.8526626"
+        },
+        "238": {
+            "label": "Q3",
+            "scaled": "17173.3981172"
+        },
+        "239": {
+            "label": "ACCENT",
+            "scaled": "14392.2842209"
+        },
+        "240": {
+            "label": "FRONTIER",
+            "scaled": "13974.9556635"
+        },
+        "241": {
+            "label": "GRANDEUR",
+            "scaled": "17089.1132995"
+        },
+        "242": {
+            "label": "STELLA",
+            "scaled": "16318.0344808"
+        },
+        "243": {
+            "label": "HR-V",
+            "scaled": "15219.5316074"
+        },
+        "244": {
+            "label": "PRIUS 2014",
+            "scaled": "16417.8526626"
+        },
+        "245": {
+            "label": "DART LIMITED",
+            "scaled": "17173.3981172"
+        },
+        "246": {
+            "label": "CX-9",
+            "scaled": "9815.4717859"
+        },
+        "247": {
+            "label": "200",
+            "scaled": "12072.8620678"
+        },
+        "248": {
+            "label": "ACCORD",
+            "scaled": "14165.3842349"
+        },
+        "249": {
+            "label": "FREELANDER",
+            "scaled": "14555.4137914"
+        },
+        "250": {
+            "label": "COMPASS",
+            "scaled": "22056.1165272"
+        },
+        "251": {
+            "label": "TRANSIT CONNECT",
+            "scaled": "13025.3751716"
+        },
+        "252": {
+            "label": "XV",
+            "scaled": "12788.1994402"
+        },
+        "253": {
+            "label": "AQUA G SOFT LEATHER SELE",
+            "scaled": "16888.3072081"
+        },
+        "254": {
+            "label": "MERIVA",
+            "scaled": "16546.1253899"
+        },
+        "255": {
+            "label": "PRIUS V",
+            "scaled": "16719.7870170"
+        },
+        "256": {
+            "label": "SORENTO",
+            "scaled": "16536.5462784"
+        },
+        "257": {
+            "label": "114",
+            "scaled": "15520.1149407"
+        },
+        "258": {
+            "label": "PASSO",
+            "scaled": "15559.3649407"
+        },
+        "259": {
+            "label": "ES 300",
+            "scaled": "16889.3808768"
+        },
+        "260": {
+            "label": "SPORTAGE",
+            "scaled": "18776.4584922"
+        },
+        "261": {
+            "label": "320 DIESEL",
+            "scaled": "16603.2162990"
+        },
+        "262": {
+            "label": "RODEO",
+            "scaled": "16403.5799353"
+        },
+        "263": {
+            "label": "A5",
+            "scaled": "16939.6919526"
+        },
+        "264": {
+            "label": "VERSA",
+            "scaled": "12779.3354222"
+        },
+        "265": {
+            "label": "FIT SPORT",
+            "scaled": "16447.8649407"
+        },
+        "266": {
+            "label": "CARNIVAL",
+            "scaled": "16366.8649407"
+        },
+        "267": {
+            "label": "STEP WAGON PADA",
+            "scaled": "16546.1253899"
+        },
+        "268": {
+            "label": "DART GT 2.4",
+            "scaled": "17344.3981172"
+        },
+        "269": {
+            "label": "TLX",
+            "scaled": "15533.1982741"
+        },
+        "270": {
+            "label": "E 230",
+            "scaled": "14066.0270921"
+        },
+        "271": {
+            "label": "A3 PREMIUM",
+            "scaled": "18712.9435717"
+        },
+        "272": {
+            "label": "GL 320",
+            "scaled": "19089.7214838"
+        },
+        "273": {
+            "label": "TOURNEO CONNECT",
+            "scaled": "15643.8842349"
+        },
+        "274": {
+            "label": "KONA",
+            "scaled": "19824.7617535"
+        },
+        "275": {
+            "label": "IS 250",
+            "scaled": "16625.9189644"
+        },
+        "276": {
+            "label": "335",
+            "scaled": "15578.4512734"
+        },
+        "277": {
+            "label": "CLK 320 AMG",
+            "scaled": "17030.8526626"
+        },
+        "278": {
+            "label": "730 3.0",
+            "scaled": "16745.7617535"
+        },
+        "279": {
+            "label": "ISIS",
+            "scaled": "16111.4907145"
+        },
+        "280": {
+            "label": "1300",
+            "scaled": "15740.7617535"
+        },
+        "281": {
+            "label": "RAM",
+            "scaled": "15056.1982741"
+        },
+        "282": {
+            "label": "SPRINTER 411",
+            "scaled": "17670.9482741"
+        },
+        "283": {
+            "label": "SINTRA",
+            "scaled": "14786.1830222"
+        },
+        "284": {
+            "label": "E 500",
+            "scaled": "16175.1987817"
+        },
+        "285": {
+            "label": "X5 M",
+            "scaled": "16204.0344808"
+        },
+        "286": {
+            "label": "CAMARO",
+            "scaled": "22159.9612056"
+        },
+        "287": {
+            "label": "CLS 350",
+            "scaled": "21669.5985206"
+        },
+        "288": {
+            "label": "TRANSIT 350T",
+            "scaled": "19824.7617535"
+        },
+        "289": {
+            "label": "435",
+            "scaled": "15017.0316074"
+        },
+        "290": {
+            "label": "OUTLANDER 2.0",
+            "scaled": "15918.1253899"
+        },
+        "291": {
+            "label": "POLO",
+            "scaled": "15339.8649407"
+        },
+        "292": {
+            "label": "CHEROKEE",
+            "scaled": "19264.1487056"
+        },
+        "293": {
+            "label": "CLA 250",
+            "scaled": "19551.9634876"
+        },
+        "294": {
+            "label": "IST 1.5",
+            "scaled": "16704.3981172"
+        },
+        "295": {
+            "label": "2107",
+            "scaled": "11458.7281935"
+        },
+        "296": {
+            "label": "NOTE",
+            "scaled": "10500.3868528"
+        },
+        "297": {
+            "label": "HARRIER",
+            "scaled": "16175.4890263"
+        },
+        "298": {
+            "label": "XF",
+            "scaled": "24270.2304889"
+        },
+        "299": {
+            "label": "X6 M",
+            "scaled": "19653.7617535"
+        },
+        "300": {
+            "label": "KYRON",
+            "scaled": "16090.0344808"
+        },
+        "301": {
+            "label": "OCTAVIA",
+            "scaled": "16488.1987817"
+        },
+        "302": {
+            "label": "SEQUOIA",
+            "scaled": "18228.2162990"
+        },
+        "303": {
+            "label": "MAZDA 3 SPORT",
+            "scaled": "16656.9482741"
+        },
+        "304": {
+            "label": "RANGE ROVER",
+            "scaled": "32307.8620678"
+        },
+        "305": {
+            "label": "IX35",
+            "scaled": "21961.4907145"
+        },
+        "306": {
+            "label": "TIIDA 2008",
+            "scaled": "16603.2162990"
+        },
+        "307": {
+            "label": "MINICA",
+            "scaled": "16489.1253899"
+        },
+        "308": {
+            "label": "SENTRA",
+            "scaled": "15201.2413778"
+        },
+        "309": {
+            "label": "GL 550",
+            "scaled": "30711.4612056"
+        },
+        "310": {
+            "label": "TOWN CAR",
+            "scaled": "16930.7816074"
+        },
+        "311": {
+            "label": "MIRAGE",
+            "scaled": "14324.2599453"
+        },
+        "312": {
+            "label": "YUKON",
+            "scaled": "18941.0344808"
+        },
+        "313": {
+            "label": "325 CI",
+            "scaled": "16774.2162990"
+        },
+        "314": {
+            "label": "SMART",
+            "scaled": "13237.6919526"
+        },
+        "315": {
+            "label": "PANAMERA",
+            "scaled": "24744.0985206"
+        },
+        "316": {
+            "label": "COROLLA LE",
+            "scaled": "17522.7214838"
+        },
+        "317": {
+            "label": "428",
+            "scaled": "17904.2252859"
+        },
+        "318": {
+            "label": "ELANTRA LIMITED",
+            "scaled": "18000.5862056"
+        },
+        "319": {
+            "label": "SPRINTER MAX",
+            "scaled": "17401.4890263"
+        },
+        "320": {
+            "label": "CAMRY S",
+            "scaled": "17315.9435717"
+        },
+        "321": {
+            "label": "IPSUM S",
+            "scaled": "16973.8526626"
+        },
+        "322": {
+            "label": "COOPER S CABRIO R56",
+            "scaled": "16973.8526626"
+        },
+        "323": {
+            "label": "LS 460",
+            "scaled": "21666.0725941"
+        },
+        "324": {
+            "label": "MX-5",
+            "scaled": "15975.9435717"
+        },
+        "325": {
+            "label": "CRAFTER",
+            "scaled": "18308.9522530"
+        },
+        "326": {
+            "label": "PRIUS PLUGIN",
+            "scaled": "18028.6708444"
+        },
+        "327": {
+            "label": "A 140",
+            "scaled": "16443.1060991"
+        },
+        "328": {
+            "label": "TERIOS",
+            "scaled": "14579.5676376"
+        },
+        "329": {
+            "label": "CADENZA",
+            "scaled": "16963.9655160"
+        },
+        "330": {
+            "label": "SONATA 2.0T",
+            "scaled": "17544.0344808"
+        },
+        "331": {
+            "label": "E 280",
+            "scaled": "16437.1060991"
+        },
+        "332": {
+            "label": "SONATA S",
+            "scaled": "17330.2162990"
+        },
+        "333": {
+            "label": "GL 450",
+            "scaled": "23530.2304889"
+        },
+        "334": {
+            "label": "B 170",
+            "scaled": "15778.1699492"
+        },
+        "335": {
+            "label": "CERATO",
+            "scaled": "17793.5586193"
+        },
+        "336": {
+            "label": "EDGE",
+            "scaled": "15742.1830222"
+        },
+        "337": {
+            "label": "PT CRUISER",
+            "scaled": "15611.5316074"
+        },
+        "338": {
+            "label": "ASTRA 1600",
+            "scaled": "16261.0344808"
+        },
+        "339": {
+            "label": "SONATA BLUE EDITION",
+            "scaled": "17486.9435717"
+        },
+        "340": {
+            "label": "CLS 55 AMG",
+            "scaled": "23425.1987817"
+        },
+        "341": {
+            "label": "320 M",
+            "scaled": "16403.5799353"
+        },
+        "342": {
+            "label": "SPRINTER VAN",
+            "scaled": "19568.2162990"
+        },
+        "343": {
+            "label": "CLK 430",
+            "scaled": "15637.6982741"
+        },
+        "344": {
+            "label": "IS 350",
+            "scaled": "13837.8252859"
+        },
+        "345": {
+            "label": "CIVIC EX",
+            "scaled": "17287.3981172"
+        },
+        "346": {
+            "label": "FUGA",
+            "scaled": "16249.1060991"
+        },
+        "347": {
+            "label": "VIANO",
+            "scaled": "20524.3987056"
+        },
+        "348": {
+            "label": "MKZ",
+            "scaled": "17558.5316074"
+        },
+        "349": {
+            "label": "528",
+            "scaled": "19569.0394083"
+        },
+        "350": {
+            "label": "CRUZE STROCNA",
+            "scaled": "16973.8526626"
+        },
+        "351": {
+            "label": "COUNTRYMAN S",
+            "scaled": "20603.1982741"
+        },
+        "352": {
+            "label": "TIIDA AXIS",
+            "scaled": "16460.5799353"
+        },
+        "353": {
+            "label": "CLK 200",
+            "scaled": "14545.6699492"
+        },
+        "354": {
+            "label": "SWIFT",
+            "scaled": "15232.8458405"
+        },
+        "355": {
+            "label": "VOLT PREMIER",
+            "scaled": "17914.6708444"
+        },
+        "356": {
+            "label": "HS 250H",
+            "scaled": "15201.4189644"
+        },
+        "357": {
+            "label": "CT 200H F-SPORT",
+            "scaled": "17686.5799353"
+        },
+        "358": {
+            "label": "MONDEO",
+            "scaled": "14869.6149407"
+        },
+        "359": {
+            "label": "316 I",
+            "scaled": "16204.0344808"
+        },
+        "360": {
+            "label": "CENTURY",
+            "scaled": "11425.7870170"
+        },
+        "361": {
+            "label": "OMEGA 1",
+            "scaled": "15827.2162990"
+        },
+        "362": {
+            "label": "E 550",
+            "scaled": "18149.8753299"
+        },
+        "363": {
+            "label": "LEGACY B4 TWIN TURBO",
+            "scaled": "16318.0344808"
+        },
+        "364": {
+            "label": "AVENGER",
+            "scaled": "13599.7413778"
+        },
+        "365": {
+            "label": "740",
+            "scaled": "18206.3362056"
+        },
+        "366": {
+            "label": "A8",
+            "scaled": "27478.5676376"
+        },
+        "367": {
+            "label": "ESCORT",
+            "scaled": "14629.4482741"
+        },
+        "368": {
+            "label": "ATENZA",
+            "scaled": "15935.4907145"
+        },
+        "369": {
+            "label": "TIGUAN",
+            "scaled": "17391.5689644"
+        },
+        "370": {
+            "label": "ASTRA BERTONE",
+            "scaled": "16403.5799353"
+        },
+        "371": {
+            "label": "FIT HBRID",
+            "scaled": "16759.9435717"
+        },
+        "372": {
+            "label": "VERSO",
+            "scaled": "17258.9435717"
+        },
+        "373": {
+            "label": "S 550",
+            "scaled": "32309.7323471"
+        },
+        "374": {
+            "label": "GOLF 6",
+            "scaled": "17458.4890263"
+        },
+        "375": {
+            "label": "230",
+            "scaled": "15197.6149407"
+        },
+        "376": {
+            "label": "BLUEBIRD",
+            "scaled": "16075.7617535"
+        },
+        "377": {
+            "label": "120",
+            "scaled": "16546.1253899"
+        },
+        "378": {
+            "label": "CLK 230 .",
+            "scaled": "16432.1253899"
+        },
+        "379": {
+            "label": "LIANA",
+            "scaled": "16546.1253899"
+        },
+        "380": {
+            "label": "C 280",
+            "scaled": "16175.4890263"
+        },
+        "381": {
+            "label": "ALPHARD",
+            "scaled": "16918.3649407"
+        },
+        "382": {
+            "label": "PASSPORT",
+            "scaled": "16318.0344808"
+        },
+        "383": {
+            "label": "COLTPLUS",
+            "scaled": "16390.8526626"
+        },
+        "384": {
+            "label": "A4 S LINE",
+            "scaled": "18655.8526626"
+        },
+        "385": {
+            "label": "CAMRY XLE",
+            "scaled": "21982.0210716"
+        },
+        "386": {
+            "label": "SONATA HYBRID",
+            "scaled": "16078.0919526"
+        },
+        "387": {
+            "label": "SIERRA",
+            "scaled": "15745.3981172"
+        },
+        "388": {
+            "label": "LIBERTY",
+            "scaled": "14839.9634876"
+        },
+        "389": {
+            "label": "FIT ARIA",
+            "scaled": "16327.2162990"
+        },
+        "390": {
+            "label": "F-TYPE",
+            "scaled": "14886.3649407"
+        },
+        "391": {
+            "label": "GRANDIS",
+            "scaled": "14830.8919526"
+        },
+        "392": {
+            "label": "E 430",
+            "scaled": "16546.1253899"
+        },
+        "393": {
+            "label": "FIT S",
+            "scaled": "16759.9435717"
+        },
+        "394": {
+            "label": "INSPIRE",
+            "scaled": "16432.1253899"
+        },
+        "395": {
+            "label": "VENZA",
+            "scaled": "12698.3586193"
+        },
+        "396": {
+            "label": "RVR",
+            "scaled": "16872.6708444"
+        },
+        "397": {
+            "label": "TOWN AND COUNTRY",
+            "scaled": "16973.8526626"
+        },
+        "398": {
+            "label": "XV LIMITED",
+            "scaled": "16489.1253899"
+        },
+        "399": {
+            "label": "PREMACY",
+            "scaled": "15167.2816074"
+        },
+        "400": {
+            "label": "R 350",
+            "scaled": "18704.7214838"
+        },
+        "401": {
+            "label": "135",
+            "scaled": "15954.5799353"
+        },
+        "402": {
+            "label": "COROLLA S",
+            "scaled": "17258.9435717"
+        },
+        "403": {
+            "label": "TRAVERSE",
+            "scaled": "13812.5985206"
+        },
+        "404": {
+            "label": "DEMIO",
+            "scaled": "13660.0919526"
+        },
+        "405": {
+            "label": "JETTA GLI",
+            "scaled": "17535.4482741"
+        },
+        "406": {
+            "label": "CLK 55 AMG",
+            "scaled": "18256.7617535"
+        },
+        "407": {
+            "label": "CX-5",
+            "scaled": "23069.1877383"
+        },
+        "408": {
+            "label": "YRV",
+            "scaled": "16061.4890263"
+        },
+        "409": {
+            "label": "ALLANTE",
+            "scaled": "17429.9435717"
+        },
+        "410": {
+            "label": "C 230",
+            "scaled": "13692.5158037"
+        },
+        "411": {
+            "label": "COMBO 2001",
+            "scaled": "16281.7617535"
+        },
+        "412": {
+            "label": "S 500",
+            "scaled": "15016.5985206"
+        },
+        "413": {
+            "label": "540 I",
+            "scaled": "19967.3981172"
+        },
+        "414": {
+            "label": "FUSION PHEV",
+            "scaled": "17943.1253899"
+        },
+        "415": {
+            "label": "500 ABARTH",
+            "scaled": "17477.4482741"
+        },
+        "416": {
+            "label": "650",
+            "scaled": "16283.9586193"
+        },
+        "417": {
+            "label": "24 10",
+            "scaled": "15759.0344808"
+        },
+        "418": {
+            "label": "206",
+            "scaled": "14932.1149407"
+        },
+        "419": {
+            "label": "A4 PREMIUM PLIUS",
+            "scaled": "17429.9435717"
+        },
+        "420": {
+            "label": "MAZDA 6",
+            "scaled": "17777.6321827"
+        },
+        "421": {
+            "label": "FRED",
+            "scaled": "14679.6105464"
+        },
+        "422": {
+            "label": "ALTEZZA",
+            "scaled": "16489.1253899"
+        },
+        "423": {
+            "label": "C 320 CDI",
+            "scaled": "17829.1253899"
+        },
+        "424": {
+            "label": "2106",
+            "scaled": "11272.9634876"
+        },
+        "425": {
+            "label": "550",
+            "scaled": "23026.6252859"
+        },
+        "426": {
+            "label": "ESCAPE TITANIUM",
+            "scaled": "17943.1253899"
+        },
+        "427": {
+            "label": "C30 2010",
+            "scaled": "17087.8526626"
+        },
+        "428": {
+            "label": "MICRA",
+            "scaled": "12844.9612056"
+        },
+        "429": {
+            "label": "X5 XDRIVE",
+            "scaled": "18969.4890263"
+        },
+        "430": {
+            "label": "535 I",
+            "scaled": "20900.0291761"
+        },
+        "431": {
+            "label": "ESTIMA",
+            "scaled": "15979.7984068"
+        },
+        "432": {
+            "label": "IVECO DAYLY",
+            "scaled": "17971.6708444"
+        },
+        "433": {
+            "label": "ML 280",
+            "scaled": "19049.4482741"
+        },
+        "434": {
+            "label": "CAMRY SPORT",
+            "scaled": "18928.7586193"
+        },
+        "435": {
+            "label": "IMPREZA",
+            "scaled": "15624.2737056"
+        },
+        "436": {
+            "label": "HILUX",
+            "scaled": "19805.5270921"
+        },
+        "437": {
+            "label": "ACADIA",
+            "scaled": "15559.2816074"
+        },
+        "438": {
+            "label": "CRUZE PREMIER",
+            "scaled": "16916.7617535"
+        },
+        "439": {
+            "label": "UP",
+            "scaled": "15716.6149407"
+        },
+        "440": {
+            "label": "OUTLANDER SPORT",
+            "scaled": "20474.3752523"
+        },
+        "441": {
+            "label": "500L LONG",
+            "scaled": "16603.2162990"
+        },
+        "442": {
+            "label": "RANGER",
+            "scaled": "15812.0344808"
+        },
+        "443": {
+            "label": "XJ",
+            "scaled": "16120.4482741"
+        },
+        "444": {
+            "label": "XL7",
+            "scaled": "15925.1982741"
+        },
+        "445": {
+            "label": "PASSAT SEL",
+            "scaled": "18014.3981172"
+        },
+        "446": {
+            "label": "FIT HIBRID",
+            "scaled": "16303.8526626"
+        },
+        "447": {
+            "label": "H6",
+            "scaled": "17059.3072081"
+        },
+        "448": {
+            "label": "CC R LINE",
+            "scaled": "17127.3649407"
+        },
+        "449": {
+            "label": "MAZDA 6 TOURING",
+            "scaled": "18381.8649407"
+        },
+        "450": {
+            "label": "DURANGO",
+            "scaled": "13830.0985206"
+        },
+        "451": {
+            "label": "CALIBER",
+            "scaled": "14155.2085376"
+        },
+        "452": {
+            "label": "MURANO",
+            "scaled": "17032.8919526"
+        },
+        "453": {
+            "label": "TRANSIT CL",
+            "scaled": "16463.5799353"
+        },
+        "454": {
+            "label": "523",
+            "scaled": "16446.3981172"
+        },
+        "455": {
+            "label": "320 I",
+            "scaled": "16823.1060991"
+        },
+        "456": {
+            "label": "SEBRING",
+            "scaled": "15726.4890263"
+        },
+        "457": {
+            "label": "ESCAPE 3.0",
+            "scaled": "17258.9435717"
+        },
+        "458": {
+            "label": "RAMCHARGER",
+            "scaled": "13100.3362056"
+        },
+        "459": {
+            "label": "C 36 AMG",
+            "scaled": "17258.9435717"
+        },
+        "460": {
+            "label": "TRANSIT FFF",
+            "scaled": "16346.5799353"
+        },
+        "461": {
+            "label": "LX 570",
+            "scaled": "27251.8753299"
+        },
+        "462": {
+            "label": "GENTRA",
+            "scaled": "14217.6445607"
+        },
+        "463": {
+            "label": "316",
+            "scaled": "16061.4890263"
+        },
+        "464": {
+            "label": "CINQUECENTO",
+            "scaled": "15927.2162990"
+        },
+        "465": {
+            "label": "PILOT",
+            "scaled": "15949.7984068"
+        },
+        "466": {
+            "label": "5.30E 62",
+            "scaled": "16918.1253899"
+        },
+        "467": {
+            "label": "CC 2.0 T",
+            "scaled": "17201.8526626"
+        },
+        "468": {
+            "label": "BRZ",
+            "scaled": "17287.3981172"
+        },
+        "469": {
+            "label": "SX4",
+            "scaled": "10691.8689644"
+        },
+        "470": {
+            "label": "TOUAREG",
+            "scaled": "15844.8753299"
+        },
+        "471": {
+            "label": "1500",
+            "scaled": "13722.9556635"
+        },
+        "472": {
+            "label": "GLE 63 AMG",
+            "scaled": "33983.8649407"
+        },
+        "473": {
+            "label": "GRAND CHEROKEE SAIUBILEO",
+            "scaled": "16460.5799353"
+        },
+        "474": {
+            "label": "SMART FORTWO",
+            "scaled": "16916.7617535"
+        },
+        "475": {
+            "label": "SKYLINE",
+            "scaled": "13716.0985206"
+        },
+        "476": {
+            "label": "500 SPORT",
+            "scaled": "15656.2919526"
+        },
+        "477": {
+            "label": "GOLF TDI",
+            "scaled": "17631.2599453"
+        },
+        "478": {
+            "label": "DEMIO EVROPULI",
+            "scaled": "15585.4482741"
+        },
+        "479": {
+            "label": "X3",
+            "scaled": "20313.3987056"
+        },
+        "480": {
+            "label": "CLS 550 550",
+            "scaled": "17372.9435717"
+        },
+        "481": {
+            "label": "EQUINOX LT",
+            "scaled": "18486.3649407"
+        },
+        "482": {
+            "label": "OUTLANDER SE",
+            "scaled": "17615.3072081"
+        },
+        "483": {
+            "label": "E 270 AVANGARDI",
+            "scaled": "17173.3981172"
+        },
+        "484": {
+            "label": "GS 350",
+            "scaled": "22563.0316074"
+        },
+        "485": {
+            "label": "WINGROAD",
+            "scaled": "15533.1982741"
+        },
+        "486": {
+            "label": "PASSAT R-LINE",
+            "scaled": "17914.6708444"
+        },
+        "487": {
+            "label": "X5 E53",
+            "scaled": "17030.8526626"
+        },
+        "488": {
+            "label": "EUNOS 500",
+            "scaled": "15812.0344808"
+        },
+        "489": {
+            "label": "PACIFICA",
+            "scaled": "16289.5799353"
+        },
+        "490": {
+            "label": "DOBLO",
+            "scaled": "15768.3649407"
+        },
+        "491": {
+            "label": "ALLROAD",
+            "scaled": "23529.4907145"
+        },
+        "492": {
+            "label": "E 350 212",
+            "scaled": "17658.0344808"
+        },
+        "493": {
+            "label": "FORESTER SH",
+            "scaled": "16375.1253899"
+        },
+        "494": {
+            "label": "SERENA SEREA",
+            "scaled": "15722.4890263"
+        },
+        "495": {
+            "label": "CADDY",
+            "scaled": "13859.5517229"
+        },
+        "496": {
+            "label": "E 55",
+            "scaled": "15707.2162990"
+        },
+        "497": {
+            "label": "COOPER S CABRIO",
+            "scaled": "15719.3981172"
+        },
+        "498": {
+            "label": "TRANSIT S",
+            "scaled": "17615.3072081"
+        },
+        "499": {
+            "label": "C-MAX HYBRID",
+            "scaled": "17658.0344808"
+        },
+        "500": {
+            "label": "ML 500",
+            "scaled": "18008.8919526"
+        },
+        "501": {
+            "label": "ML 270",
+            "scaled": "16526.2816074"
+        },
+        "502": {
+            "label": "LX 470",
+            "scaled": "17486.9435717"
+        },
+        "503": {
+            "label": "CLK 200 KOMPRESSOR",
+            "scaled": "16503.3981172"
+        },
+        "504": {
+            "label": "ELYSION",
+            "scaled": "14790.9704423"
+        },
+        "505": {
+            "label": "TRANSIT 135",
+            "scaled": "16973.8526626"
+        },
+        "506": {
+            "label": "SAMURAI",
+            "scaled": "16688.6708444"
+        },
+        "507": {
+            "label": "M5 JAPAN",
+            "scaled": "19824.7617535"
+        },
+        "508": {
+            "label": "CALDINA",
+            "scaled": "16432.1253899"
+        },
+        "509": {
+            "label": "607",
+            "scaled": "16403.5799353"
+        },
+        "510": {
+            "label": "ASTRA H",
+            "scaled": "15353.6252859"
+        },
+        "511": {
+            "label": "NEW BEETLE",
+            "scaled": "15918.6982741"
+        },
+        "512": {
+            "label": "MEGANE GT LINE",
+            "scaled": "17658.0344808"
+        },
+        "513": {
+            "label": "CLS 350 AMG",
+            "scaled": "18826.1149407"
+        },
+        "514": {
+            "label": "Q5 S-LINE",
+            "scaled": "19539.6708444"
+        },
+        "515": {
+            "label": "X1",
+            "scaled": "19086.4252859"
+        },
+        "516": {
+            "label": "CLK 270",
+            "scaled": "16859.7617535"
+        },
+        "517": {
+            "label": "RDX",
+            "scaled": "17673.5316074"
+        },
+        "518": {
+            "label": "SIRION",
+            "scaled": "15975.9435717"
+        },
+        "519": {
+            "label": "ELANTRA GT",
+            "scaled": "17159.3752523"
+        },
+        "520": {
+            "label": "CRUZE RS",
+            "scaled": "17429.9435717"
+        },
+        "521": {
+            "label": "2121 NIVA",
+            "scaled": "11019.3808768"
+        },
+        "522": {
+            "label": "MKZ HYBRID",
+            "scaled": "17116.3981172"
+        },
+        "523": {
+            "label": "130",
+            "scaled": "16916.7617535"
+        },
+        "524": {
+            "label": "X-TRAIL X-TRAIL",
+            "scaled": "16460.5799353"
+        },
+        "525": {
+            "label": "HILUX SURF",
+            "scaled": "16688.6708444"
+        },
+        "526": {
+            "label": "VEHICROSS",
+            "scaled": "16343.3649407"
+        },
+        "527": {
+            "label": "CC",
+            "scaled": "18385.2252859"
+        },
+        "528": {
+            "label": "PRIUS C NAVIGATION",
+            "scaled": "17629.5799353"
+        },
+        "529": {
+            "label": "E 350 W211",
+            "scaled": "17743.5799353"
+        },
+        "530": {
+            "label": "EXPEDITION",
+            "scaled": "15429.9522530"
+        },
+        "531": {
+            "label": "ML 320",
+            "scaled": "18279.0574704"
+        },
+        "532": {
+            "label": "PRIUS V ALPINA",
+            "scaled": "16690.8526626"
+        },
+        "533": {
+            "label": "SPRINTER 315CDI",
+            "scaled": "18541.8526626"
+        },
+        "534": {
+            "label": "TAURUS INTERCEPTOR",
+            "scaled": "17087.8526626"
+        },
+        "535": {
+            "label": "RIO LX",
+            "scaled": "16970.6149407"
+        },
+        "536": {
+            "label": "X5 XDRIVE 35D",
+            "scaled": "19639.4890263"
+        },
+        "537": {
+            "label": "JETTA SEL",
+            "scaled": "17544.0344808"
+        },
+        "538": {
+            "label": "WRANGLER",
+            "scaled": "38988.1189644"
+        },
+        "539": {
+            "label": "G 300",
+            "scaled": "17116.3981172"
+        },
+        "540": {
+            "label": "RX 450 H",
+            "scaled": "19112.0344808"
+        },
+        "541": {
+            "label": "AGILA",
+            "scaled": "15483.9482741"
+        },
+        "542": {
+            "label": "HIGHLANDER SPORT",
+            "scaled": "19112.0344808"
+        },
+        "543": {
+            "label": "AVELLA",
+            "scaled": "11919.4919526"
+        },
+        "544": {
+            "label": "FOCUS TITANIUM",
+            "scaled": "17525.5270921"
+        },
+        "545": {
+            "label": "FORTE",
+            "scaled": "17234.3842349"
+        },
+        "546": {
+            "label": "ACCORD CL9 TYPE S",
+            "scaled": "16546.1253899"
+        },
+        "547": {
+            "label": "500 TURBO",
+            "scaled": "17116.3981172"
+        },
+        "548": {
+            "label": "TSX",
+            "scaled": "13834.1060991"
+        },
+        "549": {
+            "label": "AQUA L PAKETI",
+            "scaled": "16888.3072081"
+        },
+        "550": {
+            "label": "SANTA FE ULTIMATE",
+            "scaled": "19653.7617535"
+        },
+        "551": {
+            "label": "SPRINTER 311",
+            "scaled": "18541.8526626"
+        },
+        "552": {
+            "label": "320 GRAN TURISMO",
+            "scaled": "16261.0344808"
+        },
+        "553": {
+            "label": "E 280 CDI",
+            "scaled": "17914.6708444"
+        },
+        "554": {
+            "label": "E 36 AMG",
+            "scaled": "15733.5799353"
+        },
+        "555": {
+            "label": "ASTRA ASTRA",
+            "scaled": "15918.1253899"
+        },
+        "556": {
+            "label": "311",
+            "scaled": "17144.8526626"
+        },
+        "557": {
+            "label": "VITO 2.2",
+            "scaled": "16688.6708444"
+        },
+        "558": {
+            "label": "535 TWINTURBO",
+            "scaled": "19368.6708444"
+        },
+        "559": {
+            "label": "416",
+            "scaled": "17772.1253899"
+        },
+        "560": {
+            "label": "AVENSIS",
+            "scaled": "15677.9482741"
+        },
+        "561": {
+            "label": "SONATA HIBRID",
+            "scaled": "17772.1253899"
+        },
+        "562": {
+            "label": "PRIUS S",
+            "scaled": "17401.7816074"
+        },
+        "563": {
+            "label": "QX80",
+            "scaled": "17287.3981172"
+        },
+        "564": {
+            "label": "WILL VS",
+            "scaled": "15890.3981172"
+        },
+        "565": {
+            "label": "PRIUS BLUG-IN",
+            "scaled": "17601.0344808"
+        },
+        "566": {
+            "label": "PRESAGE RIDER",
+            "scaled": "16375.1253899"
+        },
+        "567": {
+            "label": "YARIS IA",
+            "scaled": "17571.6982741"
+        },
+        "568": {
+            "label": "E 300 AVANTGARDE-LTD",
+            "scaled": "16973.8526626"
+        },
+        "569": {
+            "label": "ESCALADE",
+            "scaled": "17458.4890263"
+        },
+        "570": {
+            "label": "290",
+            "scaled": "16717.2162990"
+        },
+        "571": {
+            "label": "X5 X-DRIVE",
+            "scaled": "19871.4482741"
+        },
+        "572": {
+            "label": "GETZ",
+            "scaled": "16460.5799353"
+        },
+        "573": {
+            "label": "500C",
+            "scaled": "17971.6708444"
+        },
+        "574": {
+            "label": "R 320",
+            "scaled": "18114.2162990"
+        },
+        "575": {
+            "label": "MDX",
+            "scaled": "16759.9435717"
+        },
+        "576": {
+            "label": "KA",
+            "scaled": "14766.6149407"
+        },
+        "577": {
+            "label": "128 M TECH",
+            "scaled": "17729.3072081"
+        },
+        "578": {
+            "label": "ENCORE",
+            "scaled": "18245.3981172"
+        },
+        "579": {
+            "label": "MEGANE",
+            "scaled": "15729.8919526"
+        },
+        "580": {
+            "label": "FIT HYBRYD",
+            "scaled": "16774.2162990"
+        },
+        "581": {
+            "label": "CL 550",
+            "scaled": "17102.1253899"
+        },
+        "582": {
+            "label": "X3 3.5I",
+            "scaled": "19397.1253899"
+        },
+        "583": {
+            "label": "E 350 AMG",
+            "scaled": "20864.5316074"
+        },
+        "584": {
+            "label": "C 220 CDI",
+            "scaled": "16577.7617535"
+        },
+        "585": {
+            "label": "550 F10",
+            "scaled": "18114.2162990"
+        },
+        "586": {
+            "label": "FOCUS ST",
+            "scaled": "17273.1253899"
+        },
+        "587": {
+            "label": "CAMRY SPORTI",
+            "scaled": "17715.0344808"
+        },
+        "588": {
+            "label": "G20",
+            "scaled": "16109.0344808"
+        },
+        "589": {
+            "label": "SONIC",
+            "scaled": "16238.7816074"
+        },
+        "590": {
+            "label": "545",
+            "scaled": "17136.7214838"
+        },
+        "591": {
+            "label": "FX35",
+            "scaled": "16036.6252859"
+        },
+        "592": {
+            "label": "X5 4 4I",
+            "scaled": "16599.9435717"
+        },
+        "593": {
+            "label": "320 2.2",
+            "scaled": "16460.5799353"
+        },
+        "594": {
+            "label": "MEGANE 19",
+            "scaled": "15872.6708444"
+        },
+        "595": {
+            "label": "S 320",
+            "scaled": "14931.7112056"
+        },
+        "596": {
+            "label": "CRUZE LS",
+            "scaled": "17201.8526626"
+        },
+        "597": {
+            "label": "CAMRY HYBRID",
+            "scaled": "19026.3128063"
+        },
+        "598": {
+            "label": "E 350 4 MATIC AMG PACKAG",
+            "scaled": "17914.6708444"
+        },
+        "599": {
+            "label": "645 CI",
+            "scaled": "17116.3981172"
+        },
+        "600": {
+            "label": "CTS",
+            "scaled": "16090.0344808"
+        },
+        "601": {
+            "label": "CAMRY LE",
+            "scaled": "20274.4556635"
+        },
+        "602": {
+            "label": "CT 200H F SPORT",
+            "scaled": "18541.8526626"
+        },
+        "603": {
+            "label": "MAVERICK",
+            "scaled": "16360.8526626"
+        },
+        "604": {
+            "label": "225",
+            "scaled": "16318.0344808"
+        },
+        "605": {
+            "label": "S-MAX",
+            "scaled": "16688.6708444"
+        },
+        "606": {
+            "label": "525 I",
+            "scaled": "16546.1253899"
+        },
+        "607": {
+            "label": "GL 320 BLUETEC",
+            "scaled": "17971.6708444"
+        },
+        "608": {
+            "label": "100",
+            "scaled": "16519.7816074"
+        },
+        "609": {
+            "label": "QUEST 2016",
+            "scaled": "19967.3981172"
+        },
+        "610": {
+            "label": "RC F",
+            "scaled": "21021.3649407"
+        },
+        "611": {
+            "label": "320 2.0",
+            "scaled": "17971.6708444"
+        },
+        "612": {
+            "label": "328 DIESEL",
+            "scaled": "18399.3072081"
+        },
+        "613": {
+            "label": "IMPREZA G4",
+            "scaled": "17201.8526626"
+        },
+        "614": {
+            "label": "FIT FIT",
+            "scaled": "16631.6708444"
+        },
+        "615": {
+            "label": "RS7",
+            "scaled": "15740.7617535"
+        },
+        "616": {
+            "label": "PASSAT SE",
+            "scaled": "16813.7816074"
+        },
+        "617": {
+            "label": "IA ISTI",
+            "scaled": "16774.2162990"
+        },
+        "618": {
+            "label": "ELANTRA GLS LIMITED",
+            "scaled": "16717.2162990"
+        },
+        "619": {
+            "label": "320 320",
+            "scaled": "16517.6708444"
+        },
+        "620": {
+            "label": "OPTIMA X",
+            "scaled": "17601.0344808"
+        },
+        "621": {
+            "label": "3796",
+            "scaled": "16118.4890263"
+        },
+        "622": {
+            "label": "C 320",
+            "scaled": "16688.6708444"
+        },
+        "623": {
+            "label": "TOURAN",
+            "scaled": "16016.6982741"
+        },
+        "624": {
+            "label": "OMEGA B",
+            "scaled": "14983.6149407"
+        },
+        "625": {
+            "label": "CORSA CORSA",
+            "scaled": "16309.0344808"
+        },
+        "626": {
+            "label": "VECTRA C",
+            "scaled": "14701.7413778"
+        },
+        "627": {
+            "label": "E 220 CDI",
+            "scaled": "19539.6708444"
+        },
+        "628": {
+            "label": "DEMIO 12",
+            "scaled": "16289.5799353"
+        },
+        "629": {
+            "label": "535 COMFORT-SPORT",
+            "scaled": "17886.1253899"
+        },
+        "630": {
+            "label": "500 46 ML",
+            "scaled": "16774.2162990"
+        },
+        "631": {
+            "label": "WISH",
+            "scaled": "15432.8649407"
+        },
+        "632": {
+            "label": "VITZ RS",
+            "scaled": "16029.6982741"
+        },
+        "633": {
+            "label": "500 LOUNGE",
+            "scaled": "17173.3981172"
+        },
+        "634": {
+            "label": "XC90",
+            "scaled": "18146.6149407"
+        },
+        "635": {
+            "label": "IONIQ",
+            "scaled": "16032.9435717"
+        },
+        "636": {
+            "label": "525 525",
+            "scaled": "16717.2162990"
+        },
+        "637": {
+            "label": "TRAILBLAZER",
+            "scaled": "15718.1253899"
+        },
+        "638": {
+            "label": "OPTIMA HYBRID",
+            "scaled": "18826.1149407"
+        },
+        "639": {
+            "label": "G 320",
+            "scaled": "19682.2162990"
+        },
+        "640": {
+            "label": "CROSSTREK",
+            "scaled": "17703.6445607"
+        },
+        "641": {
+            "label": "R 350 BLUETEC",
+            "scaled": "19482.6708444"
+        },
+        "642": {
+            "label": "CRUZE SONIC",
+            "scaled": "16831.2162990"
+        },
+        "643": {
+            "label": "NUBIRA",
+            "scaled": "16132.7617535"
+        },
+        "644": {
+            "label": "AXELA",
+            "scaled": "17054.4890263"
+        },
+        "645": {
+            "label": "X5 3.0",
+            "scaled": "17601.0344808"
+        },
+        "646": {
+            "label": "SCIROCCO",
+            "scaled": "13302.9556635"
+        },
+        "647": {
+            "label": "745 I",
+            "scaled": "16688.6708444"
+        },
+        "648": {
+            "label": "A3",
+            "scaled": "16134.2816074"
+        },
+        "649": {
+            "label": "SRX",
+            "scaled": "13753.3368684"
+        },
+        "650": {
+            "label": "RENEGADE",
+            "scaled": "19610.1149407"
+        },
+        "651": {
+            "label": "CARAVAN",
+            "scaled": "16309.2816074"
+        },
+        "652": {
+            "label": "GONOW",
+            "scaled": "16546.1253899"
+        },
+        "653": {
+            "label": "S 350 LONGIA",
+            "scaled": "16090.0344808"
+        },
+        "654": {
+            "label": "FUN CARGO",
+            "scaled": "15742.1982741"
+        },
+        "655": {
+            "label": "CRUZE L T",
+            "scaled": "17344.3981172"
+        },
+        "656": {
+            "label": "C-MAX SEL",
+            "scaled": "17467.1149407"
+        },
+        "657": {
+            "label": "31514",
+            "scaled": "13005.7737056"
+        },
+        "658": {
+            "label": "VITARA",
+            "scaled": "16289.5799353"
+        },
+        "659": {
+            "label": "AQUA G KLAS",
+            "scaled": "16509.0344808"
+        },
+        "660": {
+            "label": "735",
+            "scaled": "16403.5799353"
+        },
+        "661": {
+            "label": "COUGAR",
+            "scaled": "14653.3649407"
+        },
+        "662": {
+            "label": "FUSION SE",
+            "scaled": "17315.9435717"
+        },
+        "663": {
+            "label": "116",
+            "scaled": "16463.5799353"
+        },
+        "664": {
+            "label": "328 SULEV",
+            "scaled": "19539.6708444"
+        },
+        "665": {
+            "label": "SORENTO SX",
+            "scaled": "18128.4890263"
+        },
+        "666": {
+            "label": "M5",
+            "scaled": "42550.9522530"
+        },
+        "667": {
+            "label": "4RUNNER",
+            "scaled": "14472.3362056"
+        },
+        "668": {
+            "label": "KANGOO",
+            "scaled": "16346.5799353"
+        },
+        "669": {
+            "label": "AERIO SX",
+            "scaled": "16318.0344808"
+        },
+        "670": {
+            "label": "G 55 AMG",
+            "scaled": "23167.8753299"
+        },
+        "671": {
+            "label": "C 230 2.5",
+            "scaled": "17087.8526626"
+        },
+        "672": {
+            "label": "HIGHLANDER 2.4 LIT",
+            "scaled": "17429.9435717"
+        },
+        "673": {
+            "label": "OMEGA",
+            "scaled": "15191.6149407"
+        },
+        "674": {
+            "label": "CERVO",
+            "scaled": "16446.3981172"
+        },
+        "675": {
+            "label": "SPRINTER MAXI- MAX",
+            "scaled": "17971.6708444"
+        },
+        "676": {
+            "label": "SONATA LPG",
+            "scaled": "17886.1253899"
+        },
+        "677": {
+            "label": "KIZASHI SPORTI",
+            "scaled": "16973.8526626"
+        },
+        "678": {
+            "label": "B-MAX",
+            "scaled": "15719.3981172"
+        },
+        "679": {
+            "label": "MONTERO SPORT",
+            "scaled": "16463.5799353"
+        },
+        "680": {
+            "label": "X1 28XDRIVE",
+            "scaled": "19112.0344808"
+        },
+        "681": {
+            "label": "MALIBU LT",
+            "scaled": "17545.5316074"
+        },
+        "682": {
+            "label": "X5 RESTILLING",
+            "scaled": "18969.4890263"
+        },
+        "683": {
+            "label": "FOCUS FOKUSI",
+            "scaled": "16346.5799353"
+        },
+        "684": {
+            "label": "FABIA",
+            "scaled": "16945.3072081"
+        },
+        "685": {
+            "label": "335 335I",
+            "scaled": "17187.6708444"
+        },
+        "686": {
+            "label": "IS 200",
+            "scaled": "20324.2252859"
+        },
+        "687": {
+            "label": "RX 400 RESTAILING",
+            "scaled": "17943.1253899"
+        },
+        "688": {
+            "label": "TC",
+            "scaled": "18277.0316074"
+        },
+        "689": {
+            "label": "INTREPID",
+            "scaled": "15918.9435717"
+        },
+        "690": {
+            "label": "EX37",
+            "scaled": "19610.1149407"
+        },
+        "691": {
+            "label": "969 968M",
+            "scaled": "15872.6708444"
+        },
+        "692": {
+            "label": "CX-5 TOURING",
+            "scaled": "17544.0344808"
+        },
+        "693": {
+            "label": "EDIX",
+            "scaled": "16432.1253899"
+        },
+        "694": {
+            "label": "ML 350 BLUETEC",
+            "scaled": "19112.0344808"
+        },
+        "695": {
+            "label": "IX35 2.0",
+            "scaled": "15699.9435717"
+        },
+        "696": {
+            "label": "750 4.8",
+            "scaled": "17401.4890263"
+        },
+        "697": {
+            "label": "VELOSTER R-SPEC",
+            "scaled": "17486.9435717"
+        },
+        "698": {
+            "label": "AZERA",
+            "scaled": "19742.1060991"
+        },
+        "699": {
+            "label": "2107 07",
+            "scaled": "16027.2162990"
+        },
+        "700": {
+            "label": "TRANSIT CUSTOM",
+            "scaled": "18456.3072081"
+        },
+        "701": {
+            "label": "960",
+            "scaled": "16261.0344808"
+        },
+        "702": {
+            "label": "ELYSION 3.0",
+            "scaled": "16403.5799353"
+        },
+        "703": {
+            "label": "ZAFIRA B",
+            "scaled": "16916.7617535"
+        },
+        "704": {
+            "label": "PRIUS 1.5I",
+            "scaled": "16552.4482741"
+        },
+        "705": {
+            "label": "ML 270 CDI",
+            "scaled": "17258.9435717"
+        },
+        "706": {
+            "label": "CIVIC FERIO",
+            "scaled": "16403.5799353"
+        },
+        "707": {
+            "label": "CARISMA",
+            "scaled": "14937.0316074"
+        },
+        "708": {
+            "label": "S60",
+            "scaled": "15719.3981172"
+        },
+        "709": {
+            "label": "JETTA TDI",
+            "scaled": "17618.8753299"
+        },
+        "710": {
+            "label": "OPTIMA ECO",
+            "scaled": "17629.5799353"
+        },
+        "711": {
+            "label": "PATRIOT",
+            "scaled": "14941.4137914"
+        },
+        "712": {
+            "label": "C 200 KOMPRESSOR",
+            "scaled": "16432.1253899"
+        },
+        "713": {
+            "label": "X5 REST",
+            "scaled": "17401.4890263"
+        },
+        "714": {
+            "label": "ESCUDO",
+            "scaled": "16460.5799353"
+        },
+        "715": {
+            "label": "VERISA",
+            "scaled": "16375.1253899"
+        },
+        "716": {
+            "label": "KICKS",
+            "scaled": "18538.6149407"
+        },
+        "717": {
+            "label": "ATS",
+            "scaled": "17402.0291761"
+        },
+        "718": {
+            "label": "MARK X",
+            "scaled": "16160.4482741"
+        },
+        "719": {
+            "label": "VITARA GL",
+            "scaled": "23413.6982741"
+        },
+        "720": {
+            "label": "X1 X-DRIVE",
+            "scaled": "18114.2162990"
+        },
+        "721": {
+            "label": "FOCUS FLEXFUEL",
+            "scaled": "17173.3981172"
+        },
+        "722": {
+            "label": "AQUA G",
+            "scaled": "16702.9435717"
+        },
+        "723": {
+            "label": "SWIFT SPORT",
+            "scaled": "16574.6708444"
+        },
+        "724": {
+            "label": "LEON",
+            "scaled": "16232.5799353"
+        },
+        "725": {
+            "label": "300",
+            "scaled": "16629.4556635"
+        },
+        "726": {
+            "label": "DUSTER",
+            "scaled": "19296.5316074"
+        },
+        "727": {
+            "label": "Q7 SPORT",
+            "scaled": "19112.0344808"
+        },
+        "728": {
+            "label": "TRANSIT CONNECT PRASTOI",
+            "scaled": "16503.3981172"
+        },
+        "729": {
+            "label": "VERISA 2007",
+            "scaled": "16403.5799353"
+        },
+        "730": {
+            "label": "CAMRY SPORT SE",
+            "scaled": "17943.1253899"
+        },
+        "731": {
+            "label": "HIGHLANDER LIMITED",
+            "scaled": "19254.5799353"
+        },
+        "732": {
+            "label": "GRAND CHEROKEE LAREDO",
+            "scaled": "17344.3981172"
+        },
+        "733": {
+            "label": "E 270 CDI",
+            "scaled": "16631.6708444"
+        },
+        "734": {
+            "label": "CLK 230",
+            "scaled": "14242.0291761"
+        },
+        "735": {
+            "label": "X5 3.0I",
+            "scaled": "17201.8526626"
+        },
+        "736": {
+            "label": "COROLLA SPACIO",
+            "scaled": "15845.3981172"
+        },
+        "737": {
+            "label": "CAMRY XV50",
+            "scaled": "18199.7617535"
+        },
+        "738": {
+            "label": "3.25E 48",
+            "scaled": "16688.6708444"
+        },
+        "739": {
+            "label": "911 MEQANIKA",
+            "scaled": "19086.6708444"
+        },
+        "740": {
+            "label": "645",
+            "scaled": "17886.1253899"
+        },
+        "741": {
+            "label": "24",
+            "scaled": "16175.4890263"
+        },
+        "742": {
+            "label": "TRANSIT T330",
+            "scaled": "17501.2162990"
+        },
+        "743": {
+            "label": "ESCAPE SE",
+            "scaled": "17793.7816074"
+        },
+        "744": {
+            "label": "3.20E 38",
+            "scaled": "16546.1253899"
+        },
+        "745": {
+            "label": "COMBO TDI",
+            "scaled": "16688.6708444"
+        },
+        "746": {
+            "label": "E 50",
+            "scaled": "16717.2162990"
+        },
+        "747": {
+            "label": "AQUA HIBRID",
+            "scaled": "17116.0344808"
+        },
+        "748": {
+            "label": "CELICA",
+            "scaled": "16204.0344808"
+        },
+        "749": {
+            "label": "ML 350 3.7",
+            "scaled": "17059.3072081"
+        },
+        "750": {
+            "label": "MACAN",
+            "scaled": "32624.9482741"
+        },
+        "751": {
+            "label": "PANDA",
+            "scaled": "14549.9482741"
+        },
+        "752": {
+            "label": "NIRO",
+            "scaled": "19226.1253899"
+        },
+        "753": {
+            "label": "X-TRAIL GT",
+            "scaled": "16688.6708444"
+        },
+        "754": {
+            "label": "C 400",
+            "scaled": "16132.7617535"
+        },
+        "755": {
+            "label": "RAV 4 SPORT",
+            "scaled": "18407.9482741"
+        },
+        "756": {
+            "label": "CR-Z",
+            "scaled": "15146.5676376"
+        },
+        "757": {
+            "label": "MALIBU ECO",
+            "scaled": "16973.8526626"
+        },
+        "758": {
+            "label": "FORESTER STB",
+            "scaled": "16460.5799353"
+        },
+        "759": {
+            "label": "ECOSPORT SE",
+            "scaled": "17957.3981172"
+        },
+        "760": {
+            "label": "FIT PREMIYM",
+            "scaled": "16574.6708444"
+        },
+        "761": {
+            "label": "LEGACY BL5",
+            "scaled": "15820.6149407"
+        },
+        "762": {
+            "label": "HHR",
+            "scaled": "15783.4890263"
+        },
+        "763": {
+            "label": "PRIUS TSS LIMITED",
+            "scaled": "17886.1253899"
+        },
+        "764": {
+            "label": "COOPER R50",
+            "scaled": "16403.5799353"
+        },
+        "765": {
+            "label": "C8",
+            "scaled": "17857.5799353"
+        },
+        "766": {
+            "label": "CR-V CR-V",
+            "scaled": "16261.0344808"
+        },
+        "767": {
+            "label": "SUBURBAN",
+            "scaled": "18256.7617535"
+        },
+        "768": {
+            "label": "A3 4X4",
+            "scaled": "17686.3072081"
+        },
+        "769": {
+            "label": "100 NX",
+            "scaled": "16175.4890263"
+        },
+        "770": {
+            "label": "M3",
+            "scaled": "20033.2816074"
+        },
+        "771": {
+            "label": "LAND CRUISER",
+            "scaled": "34536.8544049"
+        },
+        "772": {
+            "label": "VITZ I.LL",
+            "scaled": "16603.2162990"
+        },
+        "773": {
+            "label": "T3",
+            "scaled": "15927.2162990"
+        },
+        "774": {
+            "label": "RAV 4 XLE",
+            "scaled": "19397.1253899"
+        },
+        "775": {
+            "label": "F150",
+            "scaled": "31902.6487056"
+        },
+        "776": {
+            "label": "GOLF 2",
+            "scaled": "15918.1253899"
+        },
+        "777": {
+            "label": "GLK 300",
+            "scaled": "18969.4890263"
+        },
+        "778": {
+            "label": "MUSA",
+            "scaled": "16802.7617535"
+        },
+        "779": {
+            "label": "GOLF 3",
+            "scaled": "15947.3981172"
+        },
+        "780": {
+            "label": "1500 1600 SCHTUFENHECK",
+            "scaled": "16831.2162990"
+        },
+        "781": {
+            "label": "E 420",
+            "scaled": "17116.3981172"
+        },
+        "782": {
+            "label": "270",
+            "scaled": "16945.3072081"
+        },
+        "783": {
+            "label": "C 250 LUXURY",
+            "scaled": "17344.3981172"
+        },
+        "784": {
+            "label": "PASSAT SPORT",
+            "scaled": "16460.5799353"
+        },
+        "785": {
+            "label": "E 320 4 4",
+            "scaled": "17099.9435717"
+        },
+        "786": {
+            "label": "FEROZA",
+            "scaled": "15918.1253899"
+        },
+        "787": {
+            "label": "2140",
+            "scaled": "14586.6982741"
+        },
+        "788": {
+            "label": "JETTA SE",
+            "scaled": "17993.1830222"
+        },
+        "789": {
+            "label": "500L",
+            "scaled": "17284.1982741"
+        },
+        "790": {
+            "label": "GHIBLI",
+            "scaled": "15872.9482741"
+        },
+        "791": {
+            "label": "C-MAX C-MAX",
+            "scaled": "17601.0344808"
+        },
+        "792": {
+            "label": "X1 4X4",
+            "scaled": "18370.7617535"
+        },
+        "793": {
+            "label": "530 GT",
+            "scaled": "19682.2162990"
+        },
+        "794": {
+            "label": "G 550",
+            "scaled": "15861.9435717"
+        },
+        "795": {
+            "label": "LAND CRUISER PRADO RX",
+            "scaled": "17173.3981172"
+        },
+        "796": {
+            "label": "GLK 350",
+            "scaled": "18878.3649407"
+        },
+        "797": {
+            "label": "M6",
+            "scaled": "35784.4137914"
+        },
+        "798": {
+            "label": "325 I",
+            "scaled": "16403.5799353"
+        },
+        "799": {
+            "label": "190",
+            "scaled": "13524.0985206"
+        },
+        "800": {
+            "label": "C 300 4MATIC",
+            "scaled": "18057.2162990"
+        },
+        "801": {
+            "label": "207",
+            "scaled": "16318.0344808"
+        },
+        "802": {
+            "label": "I3",
+            "scaled": "16802.7617535"
+        },
+        "803": {
+            "label": "FIT RS MODELI",
+            "scaled": "17002.3072081"
+        },
+        "804": {
+            "label": "C 250 1.8",
+            "scaled": "18541.8526626"
+        },
+        "805": {
+            "label": "PRIUS C 2013",
+            "scaled": "15695.8526626"
+        },
+        "806": {
+            "label": "C4",
+            "scaled": "16175.4890263"
+        },
+        "807": {
+            "label": "KICKS SR",
+            "scaled": "18413.5799353"
+        },
+        "808": {
+            "label": "CALIBER SXT",
+            "scaled": "16688.6708444"
+        },
+        "809": {
+            "label": "E-PACE",
+            "scaled": "15747.8526626"
+        },
+        "810": {
+            "label": "X-TYPE",
+            "scaled": "16690.8526626"
+        },
+        "811": {
+            "label": "CEFIRO",
+            "scaled": "16318.0344808"
+        },
+        "812": {
+            "label": "MIRA",
+            "scaled": "15745.3981172"
+        },
+        "813": {
+            "label": "A6 6",
+            "scaled": "17686.5799353"
+        },
+        "814": {
+            "label": "C-MAX PREMIUM",
+            "scaled": "16866.0316074"
+        },
+        "815": {
+            "label": "TIGRA",
+            "scaled": "16009.0344808"
+        },
+        "816": {
+            "label": "A 140 140",
+            "scaled": "16918.1253899"
+        },
+        "817": {
+            "label": "328 DRIFT CAR",
+            "scaled": "16489.1253899"
+        },
+        "818": {
+            "label": "FORESTER XT",
+            "scaled": "17700.8526626"
+        },
+        "819": {
+            "label": "GX 470 470",
+            "scaled": "18598.8526626"
+        },
+        "820": {
+            "label": "MARCH 231212",
+            "scaled": "15947.3981172"
+        },
+        "821": {
+            "label": "E 400",
+            "scaled": "20903.6982741"
+        },
+        "822": {
+            "label": "CRUZE CRUZE",
+            "scaled": "16346.5799353"
+        },
+        "823": {
+            "label": "328 I",
+            "scaled": "17629.5799353"
+        },
+        "824": {
+            "label": "ML 350 4MATIC",
+            "scaled": "17971.6708444"
+        },
+        "825": {
+            "label": "EOS",
+            "scaled": "15918.9435717"
+        },
+        "826": {
+            "label": "ASTRA TD",
+            "scaled": "15918.1253899"
+        },
+        "827": {
+            "label": "TUCSON LIMITED",
+            "scaled": "18071.3981172"
+        },
+        "828": {
+            "label": "3110",
+            "scaled": "16061.4890263"
+        },
+        "829": {
+            "label": "IGNIS",
+            "scaled": "16403.5799353"
+        },
+        "830": {
+            "label": "CAMARO LS",
+            "scaled": "17829.1253899"
+        },
+        "831": {
+            "label": "COROLLA ECO",
+            "scaled": "18456.3072081"
+        },
+        "832": {
+            "label": "CATERA",
+            "scaled": "16127.2162990"
+        },
+        "833": {
+            "label": "CAYMAN",
+            "scaled": "18028.6708444"
+        },
+        "834": {
+            "label": "LAND ROVER SPORT",
+            "scaled": "40384.3987056"
+        },
+        "835": {
+            "label": "TIIDA 15 M",
+            "scaled": "16289.5799353"
+        },
+        "836": {
+            "label": "E 350 4 MATIC",
+            "scaled": "17658.0344808"
+        },
+        "837": {
+            "label": "H3",
+            "scaled": "17800.5799353"
+        },
+        "838": {
+            "label": "GOLF GTI",
+            "scaled": "16204.0344808"
+        },
+        "839": {
+            "label": "DART",
+            "scaled": "17101.2816074"
+        },
+        "840": {
+            "label": "DEMIO MAZDA2",
+            "scaled": "16346.5799353"
+        },
+        "841": {
+            "label": "745",
+            "scaled": "17401.4890263"
+        },
+        "842": {
+            "label": "NEON",
+            "scaled": "13856.2599453"
+        },
+        "843": {
+            "label": "A4 B6",
+            "scaled": "16546.1253899"
+        },
+        "844": {
+            "label": "ASTRA GE",
+            "scaled": "16403.5799353"
+        },
+        "845": {
+            "label": "OCTAVIA SCOUT",
+            "scaled": "19881.8526626"
+        },
+        "846": {
+            "label": "IS 300",
+            "scaled": "19853.3072081"
+        },
+        "847": {
+            "label": "SPRINTER VIP CLASS",
+            "scaled": "15704.4890263"
+        },
+        "848": {
+            "label": "A6 UNIVERSAL",
+            "scaled": "17144.8526626"
+        },
+        "849": {
+            "label": "MARINER",
+            "scaled": "17486.9435717"
+        },
+        "850": {
+            "label": "MUSTANG CABRIO",
+            "scaled": "17629.5799353"
+        },
+        "851": {
+            "label": "CLK 280",
+            "scaled": "16973.8526626"
+        },
+        "852": {
+            "label": "FIT RS",
+            "scaled": "16774.4890263"
+        },
+        "853": {
+            "label": "500 S",
+            "scaled": "16645.9435717"
+        },
+        "854": {
+            "label": "ECLIPSE",
+            "scaled": "16118.4890263"
+        },
+        "855": {
+            "label": "MOVE",
+            "scaled": "16232.5799353"
+        },
+        "856": {
+            "label": "C5",
+            "scaled": "16145.3981172"
+        },
+        "857": {
+            "label": "3.18E 38",
+            "scaled": "15389.4482741"
+        },
+        "858": {
+            "label": "C 230 KOMPRESSOR",
+            "scaled": "16674.4890263"
+        },
+        "859": {
+            "label": "VANETTE",
+            "scaled": "16403.5799353"
+        },
+        "860": {
+            "label": "Q5 PRESTIGE",
+            "scaled": "18627.3981172"
+        },
+        "861": {
+            "label": "09-MAR",
+            "scaled": "16403.5799353"
+        },
+        "862": {
+            "label": "JETTA 2.0",
+            "scaled": "16246.7617535"
+        },
+        "863": {
+            "label": "322173",
+            "scaled": "16403.5799353"
+        },
+        "864": {
+            "label": "HIACE",
+            "scaled": "19112.0344808"
+        },
+        "865": {
+            "label": "S 430",
+            "scaled": "16375.1253899"
+        },
+        "866": {
+            "label": "DISCOVERY LR3",
+            "scaled": "17315.9435717"
+        },
+        "867": {
+            "label": "CITAN",
+            "scaled": "17258.9435717"
+        },
+        "868": {
+            "label": "COLTPLUS PLUS",
+            "scaled": "16517.6708444"
+        },
+        "869": {
+            "label": "PASSAT RLAINI",
+            "scaled": "18969.4890263"
+        },
+        "870": {
+            "label": "ALTO LAPIN",
+            "scaled": "16261.0344808"
+        },
+        "871": {
+            "label": "QUEST",
+            "scaled": "16466.6699492"
+        },
+        "872": {
+            "label": "COUNTRYMAN S TURBO",
+            "scaled": "17629.5799353"
+        },
+        "873": {
+            "label": "SILVERADO",
+            "scaled": "16911.7816074"
+        },
+        "874": {
+            "label": "PRIUS V HYBRID",
+            "scaled": "17971.6708444"
+        },
+        "875": {
+            "label": "MALIBU HYBRID",
+            "scaled": "17814.8526626"
+        },
+        "876": {
+            "label": "B 220",
+            "scaled": "16145.3981172"
+        },
+        "877": {
+            "label": "E 320 4MATIC",
+            "scaled": "16774.2162990"
+        },
+        "878": {
+            "label": "S 55 5.5",
+            "scaled": "15704.4890263"
+        },
+        "879": {
+            "label": "GS 300",
+            "scaled": "16246.7617535"
+        },
+        "880": {
+            "label": "CAMRY SEL",
+            "scaled": "17144.8526626"
+        },
+        "881": {
+            "label": "GLE 450",
+            "scaled": "15740.7617535"
+        },
+        "882": {
+            "label": "ELANTRA 2014",
+            "scaled": "17116.3981172"
+        },
+        "883": {
+            "label": "520 I",
+            "scaled": "16075.7617535"
+        },
+        "884": {
+            "label": "BELTA",
+            "scaled": "16688.6708444"
+        },
+        "885": {
+            "label": "CLK 200 200",
+            "scaled": "16318.0344808"
+        },
+        "886": {
+            "label": "TRANSIT TOURNEO",
+            "scaled": "17544.0344808"
+        },
+        "887": {
+            "label": "TRAX",
+            "scaled": "16944.4482741"
+        },
+        "888": {
+            "label": "C-MAX SE",
+            "scaled": "16988.0344808"
+        },
+        "889": {
+            "label": "DEMIO SPORT",
+            "scaled": "16375.1253899"
+        },
+        "890": {
+            "label": "IS 250 TURBO",
+            "scaled": "17914.6708444"
+        },
+        "891": {
+            "label": "280",
+            "scaled": "16261.0344808"
+        },
+        "892": {
+            "label": "CX-3",
+            "scaled": "19112.0344808"
+        },
+        "893": {
+            "label": "525 M",
+            "scaled": "16660.2162990"
+        },
+        "894": {
+            "label": "VOLT FULL PACKET",
+            "scaled": "17914.6708444"
+        },
+        "895": {
+            "label": "FRED HIBRIDI",
+            "scaled": "16918.1253899"
+        },
+        "896": {
+            "label": "FORESTER 4X4",
+            "scaled": "17658.0344808"
+        },
+        "897": {
+            "label": "JUKE NISMO RS",
+            "scaled": "17829.1253899"
+        },
+        "898": {
+            "label": "E 270 4",
+            "scaled": "16745.7617535"
+        },
+        "899": {
+            "label": "PHAETON",
+            "scaled": "17401.4890263"
+        },
+        "900": {
+            "label": "MILLENIA",
+            "scaled": "16072.6708444"
+        },
+        "901": {
+            "label": "LANCER GT",
+            "scaled": "16674.4890263"
+        },
+        "902": {
+            "label": "250",
+            "scaled": "19254.5799353"
+        },
+        "903": {
+            "label": "PRIUS 9",
+            "scaled": "16888.3072081"
+        },
+        "904": {
+            "label": "ML 320 CDI",
+            "scaled": "17686.5799353"
+        },
+        "905": {
+            "label": "A6 QUATTRO",
+            "scaled": "19539.3981172"
+        },
+        "906": {
+            "label": "730",
+            "scaled": "16403.5799353"
+        },
+        "907": {
+            "label": "318 M",
+            "scaled": "16281.7617535"
+        },
+        "908": {
+            "label": "CONTINENTAL",
+            "scaled": "15733.5799353"
+        },
+        "909": {
+            "label": "MARCH RAFEET",
+            "scaled": "16332.3072081"
+        },
+        "910": {
+            "label": "E 200 W210",
+            "scaled": "16403.5799353"
+        },
+        "911": {
+            "label": "ARMADA",
+            "scaled": "15762.1253899"
+        },
+        "912": {
+            "label": "JUKE NISMO",
+            "scaled": "17829.1253899"
+        },
+        "913": {
+            "label": "F-PACE",
+            "scaled": "22606.7984068"
+        },
+        "914": {
+            "label": "RANGE ROVER VOGUE",
+            "scaled": "18114.2162990"
+        },
+        "915": {
+            "label": "LANTRA",
+            "scaled": "16859.7617535"
+        },
+        "916": {
+            "label": "X3 SDRIVE",
+            "scaled": "19824.7617535"
+        },
+        "917": {
+            "label": "FIT RS MUGEN",
+            "scaled": "17344.3981172"
+        },
+        "918": {
+            "label": "C70",
+            "scaled": "16075.7617535"
+        },
+        "919": {
+            "label": "JX35",
+            "scaled": "17258.9435717"
+        },
+        "920": {
+            "label": "FORESTER CROSSSPORT",
+            "scaled": "17116.3981172"
+        },
+        "921": {
+            "label": "GL 350 BLUTEC",
+            "scaled": "18684.3981172"
+        },
+        "922": {
+            "label": "XL7 LIMITED",
+            "scaled": "16631.6708444"
+        },
+        "923": {
+            "label": "OUTBACK LIMITED",
+            "scaled": "17658.0344808"
+        },
+        "924": {
+            "label": "A4 B5",
+            "scaled": "15963.5799353"
+        },
+        "925": {
+            "label": "X5 JAPAN",
+            "scaled": "18456.3072081"
+        },
+        "926": {
+            "label": "CRX",
+            "scaled": "15704.4890263"
+        },
+        "927": {
+            "label": "C 250 A.M.G",
+            "scaled": "16432.1253899"
+        },
+        "928": {
+            "label": "XC90 3.2 AWD",
+            "scaled": "17629.5799353"
+        },
+        "929": {
+            "label": "RX-8",
+            "scaled": "16688.6708444"
+        },
+        "930": {
+            "label": "535 535",
+            "scaled": "18028.6708444"
+        },
+        "931": {
+            "label": "550 M PACKET",
+            "scaled": "18912.4890263"
+        },
+        "932": {
+            "label": "TRANSIT 100LD",
+            "scaled": "17116.3981172"
+        },
+        "933": {
+            "label": "CROSSLAND X",
+            "scaled": "15727.2162990"
+        },
+        "934": {
+            "label": "FORESTER CROSS SPORT",
+            "scaled": "16745.7617535"
+        },
+        "935": {
+            "label": "CHARIOT",
+            "scaled": "15043.4482741"
+        },
+        "936": {
+            "label": "GL 350",
+            "scaled": "20717.5985206"
+        },
+        "937": {
+            "label": "GRAND HIACE",
+            "scaled": "15699.0344808"
+        },
+        "938": {
+            "label": "PASSAT PASAT",
+            "scaled": "16061.4890263"
+        },
+        "939": {
+            "label": "401",
+            "scaled": "15719.3981172"
+        },
+        "940": {
+            "label": "C 250 AMG",
+            "scaled": "17315.9435717"
+        },
+        "941": {
+            "label": "GLORIA",
+            "scaled": "16345.3981172"
+        },
+        "942": {
+            "label": "C 180 KOMP",
+            "scaled": "16973.8526626"
+        },
+        "943": {
+            "label": "YARIS RS",
+            "scaled": "18057.2162990"
+        },
+        "944": {
+            "label": "F50",
+            "scaled": "18598.8526626"
+        },
+        "945": {
+            "label": "CL 500",
+            "scaled": "16973.8526626"
+        },
+        "946": {
+            "label": "240",
+            "scaled": "16232.5799353"
+        },
+        "947": {
+            "label": "118",
+            "scaled": "17401.4890263"
+        },
+        "948": {
+            "label": "SPORTAGE SX",
+            "scaled": "17772.1253899"
+        },
+        "949": {
+            "label": "X-TRAIL NISSAN X TRAIL R",
+            "scaled": "16802.7617535"
+        },
+        "950": {
+            "label": "PRIUS PRIUS",
+            "scaled": "15693.5799353"
+        },
+        "951": {
+            "label": "ASTRA SUZUKI MR WAGON",
+            "scaled": "16118.4890263"
+        },
+        "952": {
+            "label": "PAJERO MONTERO",
+            "scaled": "17401.4890263"
+        },
+        "953": {
+            "label": "RANGE ROVER EVOQUE 2.0",
+            "scaled": "19539.6708444"
+        },
+        "954": {
+            "label": "SONATA LIMITED",
+            "scaled": "17230.3981172"
+        },
+        "955": {
+            "label": "S80",
+            "scaled": "16218.3072081"
+        },
+        "956": {
+            "label": "TUCSON SE",
+            "scaled": "18199.7617535"
+        },
+        "957": {
+            "label": "SPRINTER 313CDI",
+            "scaled": "17971.6708444"
+        },
+        "958": {
+            "label": "CAMRY XLEI",
+            "scaled": "19397.1253899"
+        },
+        "959": {
+            "label": "CAPTUR QM3 SAMSUNG",
+            "scaled": "18377.3981172"
+        },
+        "960": {
+            "label": "300 LIMITED",
+            "scaled": "17743.5799353"
+        },
+        "961": {
+            "label": "PASSAT 2.0 TFSI",
+            "scaled": "16973.8526626"
+        },
+        "962": {
+            "label": "RS6",
+            "scaled": "16275.3072081"
+        },
+        "963": {
+            "label": "JETTA SPORT",
+            "scaled": "17287.3981172"
+        },
+        "964": {
+            "label": "SONATA 2.4L",
+            "scaled": "18114.2162990"
+        },
+        "965": {
+            "label": "NX 300",
+            "scaled": "26303.7214838"
+        },
+        "966": {
+            "label": "LATIO",
+            "scaled": "16517.6708444"
+        },
+        "967": {
+            "label": "CC SPORT",
+            "scaled": "17259.9379289"
+        },
+        "968": {
+            "label": "PAJERO 2.5DIEZEL",
+            "scaled": "17259.9379289"
+        },
+        "969": {
+            "label": "ML 350 370",
+            "scaled": "17259.9379289"
+        },
+        "970": {
+            "label": "406",
+            "scaled": "17259.9379289"
+        },
+        "971": {
+            "label": "PRIUS 11",
+            "scaled": "17259.9379289"
+        },
+        "972": {
+            "label": "370Z",
+            "scaled": "17259.9379289"
+        },
+        "973": {
+            "label": "EXPLORER TURBO JAPAN",
+            "scaled": "17259.9379289"
+        },
+        "974": {
+            "label": "FUSION BYBRID",
+            "scaled": "17259.9379289"
+        },
+        "975": {
+            "label": "VESTA",
+            "scaled": "17259.9379289"
+        },
+        "976": {
+            "label": "LUPO IAPONURI",
+            "scaled": "17259.9379289"
+        },
+        "977": {
+            "label": "118 2 0",
+            "scaled": "17259.9379289"
+        },
+        "978": {
+            "label": "TRANSPORTER",
+            "scaled": "17259.9379289"
+        },
+        "979": {
+            "label": "C 180 2.0",
+            "scaled": "17259.9379289"
+        },
+        "980": {
+            "label": "LAND CRUISER 105",
+            "scaled": "17259.9379289"
+        },
+        "981": {
+            "label": "GOLF 1.8",
+            "scaled": "17259.9379289"
+        },
+        "982": {
+            "label": "X-TRAIL NISMO",
+            "scaled": "17259.9379289"
+        },
+        "983": {
+            "label": "STEP WAGON",
+            "scaled": "17259.9379289"
+        },
+        "984": {
+            "label": "LANTRA LIMITED",
+            "scaled": "17259.9379289"
+        },
+        "985": {
+            "label": "FRONTERA",
+            "scaled": "17259.9379289"
+        },
+        "986": {
+            "label": "LAND CRUISER 100",
+            "scaled": "17259.9379289"
+        },
+        "987": {
+            "label": "VELOSTER TURBO",
+            "scaled": "17259.9379289"
+        },
+        "988": {
+            "label": "E 320 BLUETEC",
+            "scaled": "17259.9379289"
+        },
+        "989": {
+            "label": "SJ 413 SAMURAI",
+            "scaled": "17259.9379289"
+        },
+        "990": {
+            "label": "VITO 115 CDI",
+            "scaled": "17259.9379289"
+        },
+        "991": {
+            "label": "ROUTAN SEL",
+            "scaled": "17259.9379289"
+        },
+        "992": {
+            "label": "21 3.0",
+            "scaled": "17259.9379289"
+        },
+        "993": {
+            "label": "GRAND CHEROKEE SPECIAL E",
+            "scaled": "17259.9379289"
+        },
+        "994": {
+            "label": "335 D",
+            "scaled": "17259.9379289"
+        },
+        "995": {
+            "label": "220",
+            "scaled": "17259.9379289"
+        },
+        "996": {
+            "label": "ML 350 ML350",
+            "scaled": "17259.9379289"
+        },
+        "997": {
+            "label": "R2",
+            "scaled": "17259.9379289"
+        },
+        "998": {
+            "label": "PATHFINDER SE",
+            "scaled": "17259.9379289"
+        },
+        "999": {
+            "label": "MATRIX XR",
+            "scaled": "17259.9379289"
+        },
+        "1000": {
+            "label": "PHANTOM",
+            "scaled": "17259.9379289"
+        },
+        "1001": {
+            "label": "PRESAGE",
+            "scaled": "17259.9379289"
+        },
+        "1002": {
+            "label": "FX45",
+            "scaled": "17259.9379289"
+        },
+        "1003": {
+            "label": "MAZDA 2",
+            "scaled": "17259.9379289"
+        },
+        "1004": {
+            "label": "EDIX FR-V",
+            "scaled": "17259.9379289"
+        },
+        "1005": {
+            "label": "159",
+            "scaled": "17259.9379289"
+        },
+        "1006": {
+            "label": "535 XI",
+            "scaled": "17259.9379289"
+        },
+        "1007": {
+            "label": "PRIUS PLUG-IN",
+            "scaled": "17259.9379289"
+        },
+        "1008": {
+            "label": "RAV 4 DIESEL",
+            "scaled": "17259.9379289"
+        },
+        "1009": {
+            "label": "IS-F",
+            "scaled": "17259.9379289"
+        },
+        "1010": {
+            "label": "ASTRA J",
+            "scaled": "17259.9379289"
+        },
+        "1011": {
+            "label": "IBIZA",
+            "scaled": "17259.9379289"
+        },
+        "1012": {
+            "label": "EX35",
+            "scaled": "17259.9379289"
+        },
+        "1013": {
+            "label": "A 200",
+            "scaled": "17259.9379289"
+        },
+        "1014": {
+            "label": "PRIUS PERSONNA",
+            "scaled": "17259.9379289"
+        },
+        "1015": {
+            "label": "S3",
+            "scaled": "17259.9379289"
+        },
+        "1016": {
+            "label": "FUSION 2015",
+            "scaled": "17259.9379289"
+        },
+        "1017": {
+            "label": "SPORTAGE EX",
+            "scaled": "17259.9379289"
+        },
+        "1018": {
+            "label": "OMEGA C",
+            "scaled": "17259.9379289"
+        },
+        "1019": {
+            "label": "OPTIMA EX",
+            "scaled": "17259.9379289"
+        },
+        "1020": {
+            "label": "NAVARA",
+            "scaled": "17259.9379289"
+        },
+        "1021": {
+            "label": "G 63 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1022": {
+            "label": "LEGACY OUTBACK",
+            "scaled": "17259.9379289"
+        },
+        "1023": {
+            "label": "FIT MODULO",
+            "scaled": "17259.9379289"
+        },
+        "1024": {
+            "label": "GIULIETTA",
+            "scaled": "17259.9379289"
+        },
+        "1025": {
+            "label": "626",
+            "scaled": "17259.9379289"
+        },
+        "1026": {
+            "label": "RX 450 HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1027": {
+            "label": "ASTRA CNG",
+            "scaled": "17259.9379289"
+        },
+        "1028": {
+            "label": "X5 4.8IS",
+            "scaled": "17259.9379289"
+        },
+        "1029": {
+            "label": "216",
+            "scaled": "17259.9379289"
+        },
+        "1030": {
+            "label": "ML 350 SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1031": {
+            "label": "NOAH",
+            "scaled": "17259.9379289"
+        },
+        "1032": {
+            "label": "MAZDA 6 GRAND TOURING",
+            "scaled": "17259.9379289"
+        },
+        "1033": {
+            "label": "SORENTO EX",
+            "scaled": "17259.9379289"
+        },
+        "1034": {
+            "label": "CAMRY SPORT PAKET",
+            "scaled": "17259.9379289"
+        },
+        "1035": {
+            "label": "SLK 32 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1036": {
+            "label": "C 32 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1037": {
+            "label": "31514 UAZ",
+            "scaled": "17259.9379289"
+        },
+        "1038": {
+            "label": "BERLINGO",
+            "scaled": "17259.9379289"
+        },
+        "1039": {
+            "label": "S70",
+            "scaled": "17259.9379289"
+        },
+        "1040": {
+            "label": "FUSION HIBRID",
+            "scaled": "17259.9379289"
+        },
+        "1041": {
+            "label": "S 550 LONG",
+            "scaled": "17259.9379289"
+        },
+        "1042": {
+            "label": "SPRINTER 316",
+            "scaled": "17259.9379289"
+        },
+        "1043": {
+            "label": "525 TDI",
+            "scaled": "17259.9379289"
+        },
+        "1044": {
+            "label": "FIT GP-5",
+            "scaled": "17259.9379289"
+        },
+        "1045": {
+            "label": "X5 M PACKET",
+            "scaled": "17259.9379289"
+        },
+        "1046": {
+            "label": "KANGOO WAGGON",
+            "scaled": "17259.9379289"
+        },
+        "1047": {
+            "label": "LEGACY B4",
+            "scaled": "17259.9379289"
+        },
+        "1048": {
+            "label": "CEED",
+            "scaled": "20395.0344808"
+        },
+        "1049": {
+            "label": "SPRINTER 314",
+            "scaled": "17259.9379289"
+        },
+        "1050": {
+            "label": "CLS 350 JAPAN",
+            "scaled": "17259.9379289"
+        },
+        "1051": {
+            "label": "307",
+            "scaled": "17259.9379289"
+        },
+        "1052": {
+            "label": "500X",
+            "scaled": "17259.9379289"
+        },
+        "1053": {
+            "label": "SONIC LT",
+            "scaled": "17259.9379289"
+        },
+        "1054": {
+            "label": "H1 GRANDSTAREX",
+            "scaled": "17259.9379289"
+        },
+        "1055": {
+            "label": "SPORTAGE PRESTIGE",
+            "scaled": "17259.9379289"
+        },
+        "1056": {
+            "label": "QX56",
+            "scaled": "17259.9379289"
+        },
+        "1057": {
+            "label": "SKYLINE 4WD",
+            "scaled": "17259.9379289"
+        },
+        "1058": {
+            "label": "PROTEGE",
+            "scaled": "17259.9379289"
+        },
+        "1059": {
+            "label": "WILL CHYPA",
+            "scaled": "17259.9379289"
+        },
+        "1060": {
+            "label": "C 320 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1061": {
+            "label": "S40",
+            "scaled": "17259.9379289"
+        },
+        "1062": {
+            "label": "RAM 1500",
+            "scaled": "17259.9379289"
+        },
+        "1063": {
+            "label": "T3 0000",
+            "scaled": "17259.9379289"
+        },
+        "1064": {
+            "label": "SUPERB",
+            "scaled": "17259.9379289"
+        },
+        "1065": {
+            "label": "MEGANE 1.9CDI",
+            "scaled": "17259.9379289"
+        },
+        "1066": {
+            "label": "E 220 W210...CDI",
+            "scaled": "17259.9379289"
+        },
+        "1067": {
+            "label": "S 600",
+            "scaled": "17259.9379289"
+        },
+        "1068": {
+            "label": "CORVETTE",
+            "scaled": "17259.9379289"
+        },
+        "1069": {
+            "label": "GLK 250",
+            "scaled": "17259.9379289"
+        },
+        "1070": {
+            "label": "SPRINTER 316 CDI",
+            "scaled": "17259.9379289"
+        },
+        "1071": {
+            "label": "OUTLANDER XL",
+            "scaled": "17259.9379289"
+        },
+        "1072": {
+            "label": "FIT S - PAKETI.",
+            "scaled": "17259.9379289"
+        },
+        "1073": {
+            "label": "REXTON SUPER",
+            "scaled": "17259.9379289"
+        },
+        "1074": {
+            "label": "FIESTA SE",
+            "scaled": "17259.9379289"
+        },
+        "1075": {
+            "label": "H1 GRAND STAREX",
+            "scaled": "17259.9379289"
+        },
+        "1076": {
+            "label": "ML 63 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1077": {
+            "label": "CAYENNE S",
+            "scaled": "17259.9379289"
+        },
+        "1078": {
+            "label": "TIIDA LATIO",
+            "scaled": "17259.9379289"
+        },
+        "1079": {
+            "label": "CR-V LX",
+            "scaled": "17259.9379289"
+        },
+        "1080": {
+            "label": "WRANGLER SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1081": {
+            "label": "ML 55 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1082": {
+            "label": "SAI",
+            "scaled": "17259.9379289"
+        },
+        "1083": {
+            "label": "500X LOUNGE",
+            "scaled": "17259.9379289"
+        },
+        "1084": {
+            "label": "M550",
+            "scaled": "17259.9379289"
+        },
+        "1085": {
+            "label": "EXPLORER XLT",
+            "scaled": "17259.9379289"
+        },
+        "1086": {
+            "label": "QASHQAI ADVANCE CVT",
+            "scaled": "17259.9379289"
+        },
+        "1087": {
+            "label": "ACCENT SE",
+            "scaled": "17259.9379289"
+        },
+        "1088": {
+            "label": "21",
+            "scaled": "17259.9379289"
+        },
+        "1089": {
+            "label": "535 I XDRIVE",
+            "scaled": "17259.9379289"
+        },
+        "1090": {
+            "label": "COUNTRYMAN SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1091": {
+            "label": "SPRINTER 313",
+            "scaled": "17259.9379289"
+        },
+        "1092": {
+            "label": "ES 300 HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1093": {
+            "label": "TRIBUTE",
+            "scaled": "17259.9379289"
+        },
+        "1094": {
+            "label": "OPTIMA SXL",
+            "scaled": "17259.9379289"
+        },
+        "1095": {
+            "label": "CARAVAN TRADESMAN",
+            "scaled": "17259.9379289"
+        },
+        "1096": {
+            "label": "ALMERA",
+            "scaled": "17259.9379289"
+        },
+        "1097": {
+            "label": "FIT EX",
+            "scaled": "17259.9379289"
+        },
+        "1098": {
+            "label": "C 43 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1099": {
+            "label": "128",
+            "scaled": "17259.9379289"
+        },
+        "1100": {
+            "label": "G6",
+            "scaled": "17259.9379289"
+        },
+        "1101": {
+            "label": "MARINER HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1102": {
+            "label": "VITO LONG115",
+            "scaled": "17259.9379289"
+        },
+        "1103": {
+            "label": "VOXY 2003",
+            "scaled": "17259.9379289"
+        },
+        "1104": {
+            "label": "Z4",
+            "scaled": "17259.9379289"
+        },
+        "1105": {
+            "label": "VITO 113",
+            "scaled": "17259.9379289"
+        },
+        "1106": {
+            "label": "A 170 CDI",
+            "scaled": "17259.9379289"
+        },
+        "1107": {
+            "label": "RACTIS",
+            "scaled": "17259.9379289"
+        },
+        "1108": {
+            "label": "VUE",
+            "scaled": "17259.9379289"
+        },
+        "1109": {
+            "label": "530 M",
+            "scaled": "17259.9379289"
+        },
+        "1110": {
+            "label": "PAJERO MINI 2008",
+            "scaled": "17259.9379289"
+        },
+        "1111": {
+            "label": "E 280 3.0",
+            "scaled": "17259.9379289"
+        },
+        "1112": {
+            "label": "ECLIPSE ES",
+            "scaled": "17259.9379289"
+        },
+        "1113": {
+            "label": "FUSION 1.6",
+            "scaled": "17259.9379289"
+        },
+        "1114": {
+            "label": "TRANSIT FORD",
+            "scaled": "17259.9379289"
+        },
+        "1115": {
+            "label": "PASSAT B7",
+            "scaled": "17259.9379289"
+        },
+        "1116": {
+            "label": "LUPO",
+            "scaled": "17259.9379289"
+        },
+        "1117": {
+            "label": "M37",
+            "scaled": "17259.9379289"
+        },
+        "1118": {
+            "label": "CARENS",
+            "scaled": "17259.9379289"
+        },
+        "1119": {
+            "label": "QUATTROPORTE",
+            "scaled": "17259.9379289"
+        },
+        "1120": {
+            "label": "ELANTRA 2016",
+            "scaled": "17259.9379289"
+        },
+        "1121": {
+            "label": "CROSSROAD",
+            "scaled": "17259.9379289"
+        },
+        "1122": {
+            "label": "A4 S4",
+            "scaled": "17259.9379289"
+        },
+        "1123": {
+            "label": "M4",
+            "scaled": "17259.9379289"
+        },
+        "1124": {
+            "label": "VELOSTER REMIX",
+            "scaled": "17259.9379289"
+        },
+        "1125": {
+            "label": "RASHEEN",
+            "scaled": "17259.9379289"
+        },
+        "1126": {
+            "label": "A4 B7",
+            "scaled": "17259.9379289"
+        },
+        "1127": {
+            "label": "SEICENTO FIAT 600",
+            "scaled": "17259.9379289"
+        },
+        "1128": {
+            "label": "C 270",
+            "scaled": "17259.9379289"
+        },
+        "1129": {
+            "label": "508",
+            "scaled": "17259.9379289"
+        },
+        "1130": {
+            "label": "VITO 111 CDI",
+            "scaled": "17259.9379289"
+        },
+        "1131": {
+            "label": "XD",
+            "scaled": "17259.9379289"
+        },
+        "1132": {
+            "label": "G37",
+            "scaled": "17259.9379289"
+        },
+        "1133": {
+            "label": "ECOSPORT",
+            "scaled": "17259.9379289"
+        },
+        "1134": {
+            "label": "340",
+            "scaled": "17259.9379289"
+        },
+        "1135": {
+            "label": "PASSAT B5",
+            "scaled": "17259.9379289"
+        },
+        "1136": {
+            "label": "POLO GTI 16V",
+            "scaled": "17259.9379289"
+        },
+        "1137": {
+            "label": "XV HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1138": {
+            "label": "323 F",
+            "scaled": "17259.9379289"
+        },
+        "1139": {
+            "label": "LEAF",
+            "scaled": "17259.9379289"
+        },
+        "1140": {
+            "label": "ELANTRA LIMITEDI",
+            "scaled": "17259.9379289"
+        },
+        "1141": {
+            "label": "SIENTA LE",
+            "scaled": "17259.9379289"
+        },
+        "1142": {
+            "label": "ONE",
+            "scaled": "17259.9379289"
+        },
+        "1143": {
+            "label": "TT",
+            "scaled": "17259.9379289"
+        },
+        "1144": {
+            "label": "2109",
+            "scaled": "17259.9379289"
+        },
+        "1145": {
+            "label": "ML 500 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1146": {
+            "label": "SPACE RUNNER",
+            "scaled": "17259.9379289"
+        },
+        "1147": {
+            "label": "Q50 S RED",
+            "scaled": "17259.9379289"
+        },
+        "1148": {
+            "label": "QASHQAI SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1149": {
+            "label": "S 350 CDI 320",
+            "scaled": "17259.9379289"
+        },
+        "1150": {
+            "label": "ASTRA GTC 1.9 TURBO DIES",
+            "scaled": "17259.9379289"
+        },
+        "1151": {
+            "label": "400X",
+            "scaled": "17259.9379289"
+        },
+        "1152": {
+            "label": "C1 C",
+            "scaled": "17259.9379289"
+        },
+        "1153": {
+            "label": "MOCO",
+            "scaled": "17259.9379289"
+        },
+        "1154": {
+            "label": "MONTEREY",
+            "scaled": "17259.9379289"
+        },
+        "1155": {
+            "label": "3008",
+            "scaled": "17259.9379289"
+        },
+        "1156": {
+            "label": "2101 01",
+            "scaled": "17259.9379289"
+        },
+        "1157": {
+            "label": "B 200",
+            "scaled": "17259.9379289"
+        },
+        "1158": {
+            "label": "FRONTERA A B",
+            "scaled": "17259.9379289"
+        },
+        "1159": {
+            "label": "C 240 W203",
+            "scaled": "17259.9379289"
+        },
+        "1160": {
+            "label": "VECTRA H",
+            "scaled": "17259.9379289"
+        },
+        "1161": {
+            "label": "CLA 250 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1162": {
+            "label": "HIGHLANDER 2 4",
+            "scaled": "17259.9379289"
+        },
+        "1163": {
+            "label": "166",
+            "scaled": "17259.9379289"
+        },
+        "1164": {
+            "label": "PT CRUISER PT CRUISER",
+            "scaled": "17259.9379289"
+        },
+        "1165": {
+            "label": "807",
+            "scaled": "17259.9379289"
+        },
+        "1166": {
+            "label": "PRIUS C 80 ORIGINAL",
+            "scaled": "17259.9379289"
+        },
+        "1167": {
+            "label": "G35 X",
+            "scaled": "17259.9379289"
+        },
+        "1168": {
+            "label": "INSIGHT LX",
+            "scaled": "17259.9379289"
+        },
+        "1169": {
+            "label": "PATRIOT 70TH ANNIVERSARY",
+            "scaled": "17259.9379289"
+        },
+        "1170": {
+            "label": "CLK 320 AVANGARDE",
+            "scaled": "17259.9379289"
+        },
+        "1171": {
+            "label": "SCORPIO",
+            "scaled": "17259.9379289"
+        },
+        "1172": {
+            "label": "AIRTREK TURBO",
+            "scaled": "17259.9379289"
+        },
+        "1173": {
+            "label": "A6 PREMIUM PLUS",
+            "scaled": "17259.9379289"
+        },
+        "1174": {
+            "label": "DISCOVERY IV",
+            "scaled": "17259.9379289"
+        },
+        "1175": {
+            "label": "318 318",
+            "scaled": "17259.9379289"
+        },
+        "1176": {
+            "label": "Q45",
+            "scaled": "17259.9379289"
+        },
+        "1177": {
+            "label": "SILVIA",
+            "scaled": "17259.9379289"
+        },
+        "1178": {
+            "label": "ASTRA GI",
+            "scaled": "17259.9379289"
+        },
+        "1179": {
+            "label": "GLS 63 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1180": {
+            "label": "SPRINTER 315CDI-XL",
+            "scaled": "17259.9379289"
+        },
+        "1181": {
+            "label": "GL 500",
+            "scaled": "17259.9379289"
+        },
+        "1182": {
+            "label": "FIT GP-6",
+            "scaled": "17259.9379289"
+        },
+        "1183": {
+            "label": "530 525I",
+            "scaled": "17259.9379289"
+        },
+        "1184": {
+            "label": "IS 350 C",
+            "scaled": "17259.9379289"
+        },
+        "1185": {
+            "label": "B 200 TURBO",
+            "scaled": "17259.9379289"
+        },
+        "1186": {
+            "label": "MEGANE 5",
+            "scaled": "17259.9379289"
+        },
+        "1187": {
+            "label": "C 300 SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1188": {
+            "label": "ENCLAVE",
+            "scaled": "17259.9379289"
+        },
+        "1189": {
+            "label": "ELANTRA I30",
+            "scaled": "17259.9379289"
+        },
+        "1190": {
+            "label": "PRIUS PLUG IN",
+            "scaled": "17259.9379289"
+        },
+        "1191": {
+            "label": "G 230 2.2CDI",
+            "scaled": "17259.9379289"
+        },
+        "1192": {
+            "label": "X5 DIESEL",
+            "scaled": "17259.9379289"
+        },
+        "1193": {
+            "label": "DS 4",
+            "scaled": "17259.9379289"
+        },
+        "1194": {
+            "label": "520 D XDRIVE LUXURY",
+            "scaled": "17259.9379289"
+        },
+        "1195": {
+            "label": "VECTRA 1.6",
+            "scaled": "17259.9379289"
+        },
+        "1196": {
+            "label": "HR-V EXL",
+            "scaled": "17259.9379289"
+        },
+        "1197": {
+            "label": "MARK X ZIO",
+            "scaled": "17259.9379289"
+        },
+        "1198": {
+            "label": "AQUA SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1199": {
+            "label": "ALMERA DCI",
+            "scaled": "17259.9379289"
+        },
+        "1200": {
+            "label": "IMPREZA SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1201": {
+            "label": "X4",
+            "scaled": "17259.9379289"
+        },
+        "1202": {
+            "label": "BORA",
+            "scaled": "17259.9379289"
+        },
+        "1203": {
+            "label": "FUSION HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1204": {
+            "label": "VITO 111",
+            "scaled": "17259.9379289"
+        },
+        "1205": {
+            "label": "2105",
+            "scaled": "17259.9379289"
+        },
+        "1206": {
+            "label": "DAIMLER",
+            "scaled": "17259.9379289"
+        },
+        "1207": {
+            "label": "JETTA SEI",
+            "scaled": "17259.9379289"
+        },
+        "1208": {
+            "label": "SPRINTER 308 CDI",
+            "scaled": "17259.9379289"
+        },
+        "1209": {
+            "label": "TL SABER",
+            "scaled": "17259.9379289"
+        },
+        "1210": {
+            "label": "COURIER",
+            "scaled": "17259.9379289"
+        },
+        "1211": {
+            "label": "SPRINTER EURO4",
+            "scaled": "17259.9379289"
+        },
+        "1212": {
+            "label": "MPV LX",
+            "scaled": "17259.9379289"
+        },
+        "1213": {
+            "label": "YARIS SE",
+            "scaled": "17259.9379289"
+        },
+        "1214": {
+            "label": "VIANO AMBIENTE",
+            "scaled": "17259.9379289"
+        },
+        "1215": {
+            "label": "118 M-SPORT LCI",
+            "scaled": "17259.9379289"
+        },
+        "1216": {
+            "label": "CT 200H 1.8",
+            "scaled": "17259.9379289"
+        },
+        "1217": {
+            "label": "ENVOY",
+            "scaled": "17259.9379289"
+        },
+        "1218": {
+            "label": "COMBO 1700",
+            "scaled": "17259.9379289"
+        },
+        "1219": {
+            "label": "PASSAT TDI SEL",
+            "scaled": "17259.9379289"
+        },
+        "1220": {
+            "label": "B 180",
+            "scaled": "17259.9379289"
+        },
+        "1221": {
+            "label": "LAND CRUISER 200",
+            "scaled": "17259.9379289"
+        },
+        "1222": {
+            "label": "SANTA FE SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1223": {
+            "label": "969 LUAZ",
+            "scaled": "17259.9379289"
+        },
+        "1224": {
+            "label": "C 250 1 8 TURBO",
+            "scaled": "17259.9379289"
+        },
+        "1225": {
+            "label": "HIGHLANDER XLE",
+            "scaled": "17259.9379289"
+        },
+        "1226": {
+            "label": "C 63 AMG",
+            "scaled": "25669.3981172"
+        },
+        "1227": {
+            "label": "VITO 115",
+            "scaled": "17259.9379289"
+        },
+        "1228": {
+            "label": "WIZARD",
+            "scaled": "17259.9379289"
+        },
+        "1229": {
+            "label": "SONATA SE LIMITED",
+            "scaled": "17259.9379289"
+        },
+        "1230": {
+            "label": "PRIUS 1.8",
+            "scaled": "17259.9379289"
+        },
+        "1231": {
+            "label": "H1 STARIXS",
+            "scaled": "17259.9379289"
+        },
+        "1232": {
+            "label": "SKYLINE GT250",
+            "scaled": "17259.9379289"
+        },
+        "1233": {
+            "label": "SAMBAR",
+            "scaled": "17259.9379289"
+        },
+        "1234": {
+            "label": "ACCENT GS",
+            "scaled": "17259.9379289"
+        },
+        "1235": {
+            "label": "COROLLA SE",
+            "scaled": "17259.9379289"
+        },
+        "1236": {
+            "label": "A5 SPORTBACK",
+            "scaled": "17259.9379289"
+        },
+        "1237": {
+            "label": "MAZDA 5",
+            "scaled": "17259.9379289"
+        },
+        "1238": {
+            "label": "CHARGER RT",
+            "scaled": "17259.9379289"
+        },
+        "1239": {
+            "label": "C 250 AMG-PAKET-1 8",
+            "scaled": "17259.9379289"
+        },
+        "1240": {
+            "label": "TRANSIT 2.4",
+            "scaled": "17259.9379289"
+        },
+        "1241": {
+            "label": "525 VANOS",
+            "scaled": "17259.9379289"
+        },
+        "1242": {
+            "label": "PRIMERA",
+            "scaled": "17259.9379289"
+        },
+        "1243": {
+            "label": "NIVA",
+            "scaled": "17259.9379289"
+        },
+        "1244": {
+            "label": "7.30E 34",
+            "scaled": "17259.9379289"
+        },
+        "1245": {
+            "label": "335 M PAKET",
+            "scaled": "17259.9379289"
+        },
+        "1246": {
+            "label": "B 170 B CLASS",
+            "scaled": "17259.9379289"
+        },
+        "1247": {
+            "label": "B9 TRIBECA",
+            "scaled": "17259.9379289"
+        },
+        "1248": {
+            "label": "206 CC",
+            "scaled": "17259.9379289"
+        },
+        "1249": {
+            "label": "S 430 4.3",
+            "scaled": "17259.9379289"
+        },
+        "1250": {
+            "label": "E 220 211",
+            "scaled": "17259.9379289"
+        },
+        "1251": {
+            "label": "MEGANE 1.9 CDI",
+            "scaled": "17259.9379289"
+        },
+        "1252": {
+            "label": "X5 E70",
+            "scaled": "17259.9379289"
+        },
+        "1253": {
+            "label": "LAFESTA",
+            "scaled": "17259.9379289"
+        },
+        "1254": {
+            "label": "XK",
+            "scaled": "17259.9379289"
+        },
+        "1255": {
+            "label": "E 220 ELEGANCE",
+            "scaled": "17259.9379289"
+        },
+        "1256": {
+            "label": "S 420",
+            "scaled": "17259.9379289"
+        },
+        "1257": {
+            "label": "REGAL",
+            "scaled": "17259.9379289"
+        },
+        "1258": {
+            "label": "ML 350 SPECIAL EDITION",
+            "scaled": "17259.9379289"
+        },
+        "1259": {
+            "label": "E 260",
+            "scaled": "17259.9379289"
+        },
+        "1260": {
+            "label": "PRIUS C HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1261": {
+            "label": "JUKE JUKE",
+            "scaled": "17259.9379289"
+        },
+        "1262": {
+            "label": "FIT HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1263": {
+            "label": "CROSSFIRE",
+            "scaled": "17259.9379289"
+        },
+        "1264": {
+            "label": "COOPER F-56",
+            "scaled": "17259.9379289"
+        },
+        "1265": {
+            "label": "S-TYPE",
+            "scaled": "17259.9379289"
+        },
+        "1266": {
+            "label": "2103 03",
+            "scaled": "17259.9379289"
+        },
+        "1267": {
+            "label": "GALANT",
+            "scaled": "17259.9379289"
+        },
+        "1268": {
+            "label": "ML 300",
+            "scaled": "17259.9379289"
+        },
+        "1269": {
+            "label": "V50",
+            "scaled": "17259.9379289"
+        },
+        "1270": {
+            "label": "CALIBER JOURNEY",
+            "scaled": "17259.9379289"
+        },
+        "1271": {
+            "label": "CLK 200 208",
+            "scaled": "17259.9379289"
+        },
+        "1272": {
+            "label": "TERRANO",
+            "scaled": "17259.9379289"
+        },
+        "1273": {
+            "label": "V 230",
+            "scaled": "17259.9379289"
+        },
+        "1274": {
+            "label": "GS 450",
+            "scaled": "17259.9379289"
+        },
+        "1275": {
+            "label": "407",
+            "scaled": "17259.9379289"
+        },
+        "1276": {
+            "label": "S6",
+            "scaled": "17259.9379289"
+        },
+        "1277": {
+            "label": "CLK 350",
+            "scaled": "17259.9379289"
+        },
+        "1278": {
+            "label": "CAMRY XSE",
+            "scaled": "17259.9379289"
+        },
+        "1279": {
+            "label": "500 SPORT PANORAMA",
+            "scaled": "17259.9379289"
+        },
+        "1280": {
+            "label": "B 170 EDITION ONE",
+            "scaled": "17259.9379289"
+        },
+        "1281": {
+            "label": "CRAFTER 2 5TDI",
+            "scaled": "17259.9379289"
+        },
+        "1282": {
+            "label": "740 I",
+            "scaled": "17259.9379289"
+        },
+        "1283": {
+            "label": "GALANT GTS",
+            "scaled": "17259.9379289"
+        },
+        "1284": {
+            "label": "FIT PREMIUMI",
+            "scaled": "17259.9379289"
+        },
+        "1285": {
+            "label": "ELANTRA GS",
+            "scaled": "17259.9379289"
+        },
+        "1286": {
+            "label": "DTS",
+            "scaled": "17259.9379289"
+        },
+        "1287": {
+            "label": "SIERRA DIESEL",
+            "scaled": "17259.9379289"
+        },
+        "1288": {
+            "label": "PASSAT TSI-SE",
+            "scaled": "17259.9379289"
+        },
+        "1289": {
+            "label": "LAND CRUISER 80",
+            "scaled": "17259.9379289"
+        },
+        "1290": {
+            "label": "PACEMAN",
+            "scaled": "17259.9379289"
+        },
+        "1291": {
+            "label": "TAURUS X",
+            "scaled": "17259.9379289"
+        },
+        "1292": {
+            "label": "CAMARO RS",
+            "scaled": "17259.9379289"
+        },
+        "1293": {
+            "label": "E 290",
+            "scaled": "17259.9379289"
+        },
+        "1294": {
+            "label": "535 M",
+            "scaled": "17259.9379289"
+        },
+        "1295": {
+            "label": "C 230 2.0 KOMPRESSOR",
+            "scaled": "17259.9379289"
+        },
+        "1296": {
+            "label": "MICRA DIESEL",
+            "scaled": "17259.9379289"
+        },
+        "1297": {
+            "label": "I20",
+            "scaled": "17259.9379289"
+        },
+        "1298": {
+            "label": "PUNTO",
+            "scaled": "17259.9379289"
+        },
+        "1299": {
+            "label": "PRIUS 3",
+            "scaled": "17259.9379289"
+        },
+        "1300": {
+            "label": "RAV 4 L",
+            "scaled": "17259.9379289"
+        },
+        "1301": {
+            "label": "BB",
+            "scaled": "17259.9379289"
+        },
+        "1302": {
+            "label": "CROSSTOUR",
+            "scaled": "17259.9379289"
+        },
+        "1303": {
+            "label": "CAMRY SE HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1304": {
+            "label": "428 I",
+            "scaled": "17259.9379289"
+        },
+        "1305": {
+            "label": "JUKE TURBO",
+            "scaled": "17259.9379289"
+        },
+        "1306": {
+            "label": "400",
+            "scaled": "17259.9379289"
+        },
+        "1307": {
+            "label": "I40",
+            "scaled": "17259.9379289"
+        },
+        "1308": {
+            "label": "VERSA S",
+            "scaled": "17259.9379289"
+        },
+        "1309": {
+            "label": "LEGEND FULL",
+            "scaled": "17259.9379289"
+        },
+        "1310": {
+            "label": "FIT PREMIUM PAKETI",
+            "scaled": "17259.9379289"
+        },
+        "1311": {
+            "label": "LANCER GTS",
+            "scaled": "17259.9379289"
+        },
+        "1312": {
+            "label": "VITO 110D",
+            "scaled": "17259.9379289"
+        },
+        "1313": {
+            "label": "530 I",
+            "scaled": "17259.9379289"
+        },
+        "1314": {
+            "label": "JETTA S",
+            "scaled": "17259.9379289"
+        },
+        "1315": {
+            "label": "COOPER CLUBMAN",
+            "scaled": "17259.9379289"
+        },
+        "1316": {
+            "label": "S 63 AMG",
+            "scaled": "35944.0316074"
+        },
+        "1317": {
+            "label": "E 200 CGI",
+            "scaled": "17259.9379289"
+        },
+        "1318": {
+            "label": "JETTA 2",
+            "scaled": "17259.9379289"
+        },
+        "1319": {
+            "label": "GOLF 5",
+            "scaled": "17259.9379289"
+        },
+        "1320": {
+            "label": "E 200 2000",
+            "scaled": "17259.9379289"
+        },
+        "1321": {
+            "label": "INTEGRA",
+            "scaled": "17259.9379289"
+        },
+        "1322": {
+            "label": "IMPREZA WRX STI LIMITED",
+            "scaled": "17259.9379289"
+        },
+        "1323": {
+            "label": "CL 55 AMG KOMPRESSOR",
+            "scaled": "17259.9379289"
+        },
+        "1324": {
+            "label": "DELICA 5",
+            "scaled": "17259.9379289"
+        },
+        "1325": {
+            "label": "COROLLA 140",
+            "scaled": "17259.9379289"
+        },
+        "1326": {
+            "label": "COOPER S",
+            "scaled": "17259.9379289"
+        },
+        "1327": {
+            "label": "PAJERO MINI 2010",
+            "scaled": "17259.9379289"
+        },
+        "1328": {
+            "label": "CRUZE LT RS",
+            "scaled": "17259.9379289"
+        },
+        "1329": {
+            "label": "2111",
+            "scaled": "17259.9379289"
+        },
+        "1330": {
+            "label": "316 1995",
+            "scaled": "17259.9379289"
+        },
+        "1331": {
+            "label": "A6 C7",
+            "scaled": "17259.9379289"
+        },
+        "1332": {
+            "label": "ASTRA A.H",
+            "scaled": "17259.9379289"
+        },
+        "1333": {
+            "label": "HUSTLER",
+            "scaled": "17259.9379289"
+        },
+        "1334": {
+            "label": "STEP WAGON RG2 SPADA",
+            "scaled": "17259.9379289"
+        },
+        "1335": {
+            "label": "JETTA HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1336": {
+            "label": "FIT NAVI PREMIUM",
+            "scaled": "17259.9379289"
+        },
+        "1337": {
+            "label": "CIVIC HYBRID",
+            "scaled": "17259.9379289"
+        },
+        "1338": {
+            "label": "Z4 3 0 SI",
+            "scaled": "17259.9379289"
+        },
+        "1339": {
+            "label": "JETTA 1.4 TURBO",
+            "scaled": "17259.9379289"
+        },
+        "1340": {
+            "label": "FORESTER L.L.BEAN",
+            "scaled": "17259.9379289"
+        },
+        "1341": {
+            "label": "SONATA SE",
+            "scaled": "17259.9379289"
+        },
+        "1342": {
+            "label": "S 500 67",
+            "scaled": "17259.9379289"
+        },
+        "1343": {
+            "label": "INSIGNIA",
+            "scaled": "17259.9379289"
+        },
+        "1344": {
+            "label": "ML 320 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1345": {
+            "label": "ESCAPE ESCAPE",
+            "scaled": "17259.9379289"
+        },
+        "1346": {
+            "label": "VERACRUZ",
+            "scaled": "17259.9379289"
+        },
+        "1347": {
+            "label": "940",
+            "scaled": "17259.9379289"
+        },
+        "1348": {
+            "label": "31105",
+            "scaled": "17259.9379289"
+        },
+        "1349": {
+            "label": "GALLOPER",
+            "scaled": "17259.9379289"
+        },
+        "1350": {
+            "label": "325 XI",
+            "scaled": "17259.9379289"
+        },
+        "1351": {
+            "label": "CAMI",
+            "scaled": "17259.9379289"
+        },
+        "1352": {
+            "label": "T5",
+            "scaled": "17259.9379289"
+        },
+        "1353": {
+            "label": "TIGUAN SE",
+            "scaled": "17259.9379289"
+        },
+        "1354": {
+            "label": "A6 EVROPULI",
+            "scaled": "17259.9379289"
+        },
+        "1355": {
+            "label": "PRIUS C YARIS IA",
+            "scaled": "17259.9379289"
+        },
+        "1356": {
+            "label": "CL550 AMG",
+            "scaled": "17259.9379289"
+        },
+        "1357": {
+            "label": "OUTBACK 3.0",
+            "scaled": "17259.9379289"
+        },
+        "1358": {
+            "label": "A 170 AVANGARD",
+            "scaled": "17259.9379289"
+        },
+        "1359": {
+            "label": "PRIUS C 1.5I",
+            "scaled": "17259.9379289"
+        },
+        "1360": {
+            "label": "PATRIOT LATITUDE",
+            "scaled": "17259.9379289"
+        },
+        "1361": {
+            "label": "KALOS",
+            "scaled": "17259.9379289"
+        },
+        "1362": {
+            "label": "A4 SLINE",
+            "scaled": "17259.9379289"
+        },
+        "1363": {
+            "label": "ML 550",
+            "scaled": "17259.9379289"
+        },
+        "1364": {
+            "label": "RIDGELINE",
+            "scaled": "17259.9379289"
+        },
+        "1365": {
+            "label": "PRIUS V HIBRID",
+            "scaled": "17259.9379289"
+        },
+        "1366": {
+            "label": "XC90 2.5TURBO",
+            "scaled": "17259.9379289"
+        },
+        "1367": {
+            "label": "FOCUS SEL",
+            "scaled": "17259.9379289"
+        },
+        "1368": {
+            "label": "X5 35D",
+            "scaled": "17259.9379289"
+        },
+        "1369": {
+            "label": "H2",
+            "scaled": "21392.8526626"
+        },
+        "1370": {
+            "label": "CRUZE S",
+            "scaled": "17259.9379289"
+        },
+        "1371": {
+            "label": "SLK 350 300",
+            "scaled": "17259.9379289"
+        },
+        "1372": {
+            "label": "RX 400 H",
+            "scaled": "17259.9379289"
+        },
+        "1373": {
+            "label": "OPTIMA K5",
+            "scaled": "17259.9379289"
+        },
+        "1374": {
+            "label": "X5 SPORT",
+            "scaled": "17259.9379289"
+        },
+        "1375": {
+            "label": "528 3.0",
+            "scaled": "17259.9379289"
+        },
+        "1376": {
+            "label": "C30",
+            "scaled": "17259.9379289"
+        },
+        "1377": {
+            "label": "OUTBACK 2007",
+            "scaled": "17259.9379289"
+        },
+        "1378": {
+            "label": "FUSION HYBRID SE",
+            "scaled": "17259.9379289"
+        },
+        "1379": {
+            "label": "VERSA SE",
+            "scaled": "17259.9379289"
+        },
+        "1380": {
+            "label": "VITO EXSTRALONG",
+            "scaled": "17259.9379289"
+        },
+        "1381": {
+            "label": "C 240 W 203",
+            "scaled": "17259.9379289"
+        },
+        "1382": {
+            "label": "CLS 63 AMG",
+            "scaled": "24243.8526626"
+        },
+        "1383": {
+            "label": "VITO EXTRALONG",
+            "scaled": "17259.9379289"
+        },
+        "1384": {
+            "label": "E 500 AVG",
+            "scaled": "17259.9379289"
+        },
+        "1385": {
+            "label": "FIT LX",
+            "scaled": "17259.9379289"
+        },
+        "1386": {
+            "label": "EVERY LANDY NISSAN SEREN",
+            "scaled": "17259.9379289"
+        },
+        "1387": {
+            "label": "20",
+            "scaled": "20395.0344808"
+        },
+        "1388": {
+            "label": "CL 600",
+            "scaled": "17259.9379289"
+        },
+        "1389": {
+            "label": "E 230 124",
+            "scaled": "17259.9379289"
+        },
+        "1390": {
+            "label": "PRIUS C AQUA",
+            "scaled": "17259.9379289"
+        }
+    },
+    "Category": {
+        "0": {
+            "label": "JEEP",
+            "scaled": "23810.8174597"
+        },
+        "1": {
+            "label": "HATCHBACK",
+            "scaled": "11516.5167339"
+        },
+        "2": {
+            "label": "SEDAN",
+            "scaled": "14322.4423589"
+        },
+        "3": {
+            "label": "MICROBUS",
+            "scaled": "17891.9235920"
+        },
+        "4": {
+            "label": "GOODS WAGON",
+            "scaled": "10204.9805873"
+        },
+        "5": {
+            "label": "UNIVERSAL",
+            "scaled": "27797.8290772"
+        },
+        "6": {
+            "label": "COUPE",
+            "scaled": "20526.9113470"
+        },
+        "7": {
+            "label": "MINIVAN",
+            "scaled": "19773.8539242"
+        },
+        "8": {
+            "label": "CABRIOLET",
+            "scaled": "19915.0492603"
+        },
+        "9": {
+            "label": "LIMOUSINE",
+            "scaled": "17696.2737056"
+        },
+        "10": {
+            "label": "PICKUP",
+            "scaled": "22662.0108368"
+        }
+    },
+    "Fuel type": {
+        "0": {
+            "label": "HYBRID",
+            "scaled": "10881.2390399"
+        },
+        "1": {
+            "label": "PETROL",
+            "scaled": "17589.6277555"
+        },
+        "2": {
+            "label": "DIESEL",
+            "scaled": "24293.5857257"
+        },
+        "3": {
+            "label": "CNG",
+            "scaled": "8765.8341804"
+        },
+        "4": {
+            "label": "PLUG-IN HYBRID",
+            "scaled": "21782.3546794"
+        },
+        "5": {
+            "label": "LPG",
+            "scaled": "13232.3859503"
+        },
+        "6": {
+            "label": "HYDROGEN",
+            "scaled": "17259.9379289"
+        }
+    },
+    "Gear box type": {
+        "0": {
+            "label": "AUTOMATIC",
+            "scaled": "15945.3399792"
+        },
+        "1": {
+            "label": "TIPTRONIC",
+            "scaled": "27433.2979113"
+        },
+        "2": {
+            "label": "VARIATOR",
+            "scaled": "14627.5706095"
+        },
+        "3": {
+            "label": "MANUAL",
+            "scaled": "11123.9444341"
+        }
+    },
+    "Drive wheels": {
+        "0": {
+            "label": "4X4",
+            "scaled": "20154.5629637"
+        },
+        "1": {
+            "label": "FRONT",
+            "scaled": "16408.2051472"
+        },
+        "2": {
+            "label": "REAR",
+            "scaled": "16945.8952114"
+        }
+    },
+    "Doors": {
+        "0": {
+            "label": "4",
+            "scaled": "17275.1588893"
+        },
+        "1": {
+            "label": "2",
+            "scaled": "16080.9113300"
+        },
+        "2": {
+            "label": "5",
+            "scaled": "22295.0489752"
+        }
+    },
+    "Wheel": {
+        "0": {
+            "label": "LEFT WHEEL",
+            "scaled": "17977.9914630"
+        },
+        "1": {
+            "label": "RIGHT-HAND DRIVE",
+            "scaled": "9105.4274093"
+        }
+    },
+    "Color": {
+        "0": {
+            "label": "SILVER",
+            "scaled": "14894.0079316"
+        },
+        "1": {
+            "label": "BLACK",
+            "scaled": "19685.3003482"
+        },
+        "2": {
+            "label": "WHITE",
+            "scaled": "17911.4363625"
+        },
+        "3": {
+            "label": "GREY",
+            "scaled": "18966.9174804"
+        },
+        "4": {
+            "label": "BLUE",
+            "scaled": "14657.7599700"
+        },
+        "5": {
+            "label": "GREEN",
+            "scaled": "10842.5206054"
+        },
+        "6": {
+            "label": "SKY BLUE",
+            "scaled": "14096.9636012"
+        },
+        "7": {
+            "label": "RED",
+            "scaled": "13559.8339569"
+        },
+        "8": {
+            "label": "ORANGE",
+            "scaled": "12601.9248382"
+        },
+        "9": {
+            "label": "YELLOW",
+            "scaled": "21908.7301346"
+        },
+        "10": {
+            "label": "BROWN",
+            "scaled": "19365.1978572"
+        },
+        "11": {
+            "label": "GOLDEN",
+            "scaled": "14754.5899913"
+        },
+        "12": {
+            "label": "BEIGE",
+            "scaled": "14944.9140167"
+        },
+        "13": {
+            "label": "CARNELIAN RED",
+            "scaled": "16946.5764979"
+        },
+        "14": {
+            "label": "PURPLE",
+            "scaled": "12584.3348158"
+        },
+        "15": {
+            "label": "PINK",
+            "scaled": "14345.5172404"
+        }
+    },
+    "Leather interior": {
+        "0": {
+            "label": "No",
+            "scaled": "0"
+        },
+        "1": {
+            "label": "S\u00ed",
+            "scaled": "1"
+        }
+    },
+    "isTurbo": {
+        "0": {
+            "label": "No",
+            "scaled": "0"
+        },
+        "1": {
+            "label": "S\u00ed",
+            "scaled": "1"
+        }
+    }
+}
