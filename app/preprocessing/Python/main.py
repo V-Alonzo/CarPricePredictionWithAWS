@@ -1,22 +1,15 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from utils.cleansing.DataCleaner import cleanData
 from utils.JSONBuilder import buildJSON
-
-from math import comb
-
-from sklearn.decomposition import PCA
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, root_mean_squared_error
-from sklearn.model_selection import cross_val_score
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import PolynomialFeatures, StandardScaler
+from sklearn.metrics import mean_squared_error
 from xgboost import XGBRegressor
 import pandas as pd
 
-carsDataframe = pd.read_csv("data/CarPricePrediction.csv")
+from scipy.stats import spearmanr
 
-numberOfFolds = 2
+carsDataframe = pd.read_csv("app/preprocessing/Python/data/CarPricePrediction.csv")
+
+numberOfFolds = 3
 percentage = 1 / numberOfFolds
 increment = int(carsDataframe.index.size * percentage)
 folds = []
@@ -85,15 +78,35 @@ bestTestDataframe = folds[bestTestIndex]
 
 bestTrainDataframe, bestTestDataframe = cleanData(bestTrainDataframe, bestTestDataframe)
 
-buildJSON(pd.concat([bestTrainDataframe, bestTestDataframe], axis=0), "data/JSON/Database.json", ["Levy","Mileage","Prod. year", "Airbags", "Cylinders","Engine volume"])
+buildJSON(pd.concat([bestTrainDataframe, bestTestDataframe], axis=0), "app/preprocessing/Python/data/JSON/Database.json", ["Levy","Mileage","Prod. year", "Airbags", "Cylinders","Engine volume"])
 
-bestModel.save_model("data/JSON/model.json")
+bestModel.save_model("app/preprocessing/Python/data/JSON/model.json")
 
 featureColumns = [
     column
     for column in bestTrainDataframe.columns
     if column.endswith("_scaled") or column == "isTurbo"
 ]
+
+
+bestValidationDataFrame = bestTestDataframe.sample(frac=0.5, random_state=42)
+bestTestDataframe = bestTestDataframe.drop(bestValidationDataFrame.index)
+
+
+validationDataframes = {"Validation": bestValidationDataFrame, "Train": bestTrainDataframe, "Test": bestTestDataframe}
+
+for dataframesValidationKey in validationDataframes:
+    dataframeValidation = validationDataframes[dataframesValidationKey]
+    preds = xgb_model.predict(dataframeValidation[featureColumns])
+    correlation, p_value = spearmanr(dataframeValidation["Price"], preds)
+    mse = mean_squared_error(dataframeValidation["Price"], preds)
+
+    print(f"Best spearman value on {dataframesValidationKey}: {correlation}")
+    print(f"Best MSE on {dataframesValidationKey}: {mse}")
+    print(f"Best RMSE on {dataframesValidationKey}: {mse**(1/2)}")
+    print("-"*20)
+
+
 
 singleRowForPrediction = bestTestDataframe[featureColumns].iloc[[0]]
 with pd.option_context('display.max_columns', None):

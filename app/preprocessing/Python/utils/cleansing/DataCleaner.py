@@ -144,10 +144,10 @@ def cleanData(trainData : DataFrame, testData : DataFrame) -> tuple[DataFrame, D
     cleanedTrainDataframe = removeOutliers(cleanedTrainDataframe, TARGET_COLUMN)
     cleanedTestDataframe = removeOutliers(cleanedTestDataframe, TARGET_COLUMN)
 
-    cleanedTrainDataframe.to_csv("data/cleanedTrainCarPricePrediction.csv", index=False, float_format='%.7f')
-    cleanedTestDataframe.to_csv("data/cleanedTestCarPricePrediction.csv", index=False, float_format='%.7f')
+    cleanedTrainDataframe.to_csv("app/preprocessing/Python/data/cleanedTrainCarPricePrediction.csv", index=False, float_format='%.7f')
+    cleanedTestDataframe.to_csv("app/preprocessing/Python/data/cleanedTestCarPricePrediction.csv", index=False, float_format='%.7f')
     pd.concat([cleanedTrainDataframe, cleanedTestDataframe], axis=0).to_csv(
-        "data/cleanedCarPricePrediction.csv", index=False, float_format='%.7f'
+        "app/preprocessing/Python/data/cleanedCarPricePrediction.csv", index=False, float_format='%.7f'
     )
 
     return cleanedTrainDataframe, cleanedTestDataframe
