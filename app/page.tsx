@@ -1,7 +1,7 @@
 "use client";
 
 import { ChangeEvent, SubmitEventHandler, useEffect, useState } from "react";
-import transformFunctions from "./utils";
+import {transformFunctions, regexFunctions }from "./utils";
 import DATABASE from "./data/JSON/Database.json";
 
 
@@ -94,9 +94,21 @@ export default function Home() {
 
   const handleChange = (event: ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     let { name, value } = event.target;
-    let valueTransformed = null;
+    let valueTransformed : string | null = null;
+
+    if(value == ""){
+      setFormData((previous) => ({ ...previous, [name]: { inputValue: value, transformation: valueTransformed} }));
+    }
+
+    if(Object.keys(regexFunctions).includes(name) &&!regexFunctions[name as keyof typeof regexFunctions].test(value) ) {
+      console.log("NO PASA")
+      setFormData((previous) => ({ ...previous, [name]: { inputValue: "", transformation: null} }));
+      return;
+    }
+
 
     if(Object.keys(transformFunctions).includes(name)) {
+      if(value.includes("-")) value = ""
       if (value != "") valueTransformed = transformFunctions[name as keyof typeof transformFunctions](parseFloat(value)).toString();
     }
     else valueTransformed = value;
@@ -109,6 +121,10 @@ export default function Home() {
       if (found) {
         valueTransformed = found[1].scaled;
       }
+    }
+
+    if(value == ""){
+      valueTransformed = null
     }
 
     setFormData((previous) => ({ ...previous, [name]: { inputValue: value, transformation: valueTransformed} }));
@@ -157,6 +173,14 @@ export default function Home() {
 
   const handleSubmit: SubmitEventHandler<HTMLFormElement> = (event) => {
     event.preventDefault();
+
+    for(const key in formData){
+      if (formData[key as keyof typeof formData].transformation === null){
+        alert("Por favor completa todos los campos correctamente antes de enviar el formulario.");
+        return;
+      }
+    }
+
     getFromAPI();
   };
 
